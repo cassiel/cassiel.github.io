@@ -22,14 +22,15 @@ nav.navbar {
   border-bottom: 0; }
   nav.navbar a.navbar-brand {
     font-family: 'Microgramma', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     color: #BFAD8A;
     font-size: 27px;
     border-bottom: 0; }
     nav.navbar a.navbar-brand .main {
       font-family: 'Microgramma Bold', "Helvetica Neue", Helvetica, Arial, sans-serif;
       text-transform: uppercase;
-      color: #BFAD8A; }
+      color: #BFAD8A;
+      color: #e3dbcc; }
     nav.navbar a.navbar-brand:hover {
       color: #CAC9C8; }
 
@@ -47,7 +48,7 @@ div.post-splash, div.project-splash, div.block-image {
 
 div.main-head h1 {
   font-family: 'Microgramma', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   color: #BFAD8A;
   margin-bottom: 25px; }
 
@@ -119,7 +120,7 @@ div#p-tag_index div.brick div.image-area h2 {
 
 div#p-page_for_md h1 {
   font-family: 'Microgramma', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   color: #BFAD8A;
   font-size: 21px;
   margin-top: 5px; }
@@ -203,7 +204,7 @@ div#all-tags {
   margin-top: 50px; }
   div#all-tags h3 {
     font-family: 'Microgramma', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     color: #BFAD8A;
     font-size: 15px; }
   div#all-tags ul {
