@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassiel | Nick Rothwell</title>
+    <description>Cassiel: music, media, systems, performance, installation</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 03 Apr 2021 14:47:08 +0100</pubDate>
+    <lastBuildDate>Sat, 03 Apr 2021 14:47:08 +0100</lastBuildDate>
+    <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Ableton Live 11 Review</title>
+        <description>&lt;p&gt;My review of &lt;a href=&quot;https://www.ableton.com/en/live/&quot;&gt;Ableton Live 11&lt;/a&gt; is out in the &lt;a href=&quot;https://www.soundonsound.com/reviews/ableton-live-11&quot;&gt;March 2021 Sound On Sound&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2021/02/20/live-11/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/20/live-11/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>ableton</category>
+        
+        <category>review</category>
+        
+        <category>article</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Minute Cube 10</title>
+        <description>&lt;p&gt;Minute Cube 10 is &lt;a href=&quot;https://soundcloud.com/cassiel/sets/cube-10&quot;&gt;done&lt;/a&gt;, which brings us up to an hour of music in sixty one-minute tracks.&lt;/p&gt;
+
+&lt;p&gt;Full track list with players for all ten cubes is &lt;a href=&quot;/project/minute-cubes&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Every cube has a unique artwork theme for the six images; this is the first cube with true code-driven artwork (although CUBE 09 had imagery that was software-generated). The artwork here is generated in &lt;a href=&quot;https://solandra.netlify.app/&quot;&gt;Solandra&lt;/a&gt;, which can be thought of as an up-market &lt;a href=&quot;https://p5js.org/&quot;&gt;p5.js&lt;/a&gt; with functional structuring and a high-level drawing API. It’s also &lt;a href=&quot;https://www.typescriptlang.org/&quot;&gt;TypeScript&lt;/a&gt;-compatible, if you’re happy to wheel in the whole &lt;a href=&quot;https://www.gatsbyjs.com/&quot;&gt;Gatsby&lt;/a&gt; environment to get that working. Downside: that’s all a bit complicated and takes time and effort to get in the air. Upside: it’s a nice system, supports hot-loading of code and page content, and if you edit in &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; you even get editor-level semantic checking. It could be time to jump ship from Jekyll for this site.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2021/01/07/cube-10/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/07/cube-10/</guid>
+        
+        <category>podcast</category>
+        
+        <category>music</category>
+        
+        <category>minute-cubes</category>
+        
+        <category>solandra</category>
+        
+        <category>gatsby</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Protocol</title>
+        <description>&lt;h3 id=&quot;the-concept&quot;&gt;The Concept&lt;/h3&gt;
+
+&lt;p&gt;The Protocol is a contemporary dance-theatre work where three unfortunate characters find themselves in an unwanted situation: they have been chosen to be the ambassadors for the first encounter between humans and unknown visitors. Their mission is to develop a strategy (a protocol) to understand the outsider and survive this peculiar meeting. Taking this unusual setting as the starting point, the choreographer Avatâra Ayuso will take us on a journey where dance and live text question our approach to the other, reflecting on matters such as our inner fears and contradictions, prejudices and empathy.&lt;/p&gt;
+
+&lt;p&gt;This work has been designed as a triptych and exists in three formats: An indoor work for non-traditional theatre venues  //  An outdoor work   //  A short film.&lt;/p&gt;
+
+&lt;h3 id=&quot;creative-team&quot;&gt;Creative Team&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Concept, direction and choreography: Avatâra Ayuso&lt;/li&gt;
+  &lt;li&gt;Dancers: Chloe Hillyar, Georgia Thomson, Jordan Ajadi&lt;/li&gt;
+  &lt;li&gt;Dramaturg: Nacho Vleming&lt;/li&gt;
+  &lt;li&gt;Script: Avatâra Ayuso&lt;/li&gt;
+  &lt;li&gt;Sound design: Nick Rothwell&lt;/li&gt;
+  &lt;li&gt;Script consultant: Michael Walling&lt;/li&gt;
+  &lt;li&gt;Outdoor work artistic advisor: Kevin Finnan&lt;/li&gt;
+  &lt;li&gt;Set: Avatâra Ayuso&lt;/li&gt;
+  &lt;li&gt;Costume: Avatâra Ayuso and Chloe Hillyar&lt;/li&gt;
+  &lt;li&gt;Producer: Ornella Salloum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A production by AVA DANCE COMPANY&lt;/p&gt;
+
+&lt;p&gt;Tour in 2021:    Tour Booker:  ornella @ avadancecompany.com&lt;/p&gt;
+
+&lt;p&gt;R&amp;amp;D FUNDED BY   ARTS COUNCIL ENGLAND &amp;amp; EMBASSY OF SPAIN LONDON&lt;/p&gt;
+
+&lt;p&gt;​Support in kind by: Maninahat Productions (UK), EiMa Creació (Spain), Birmingham Royal Ballet (UK), Motion House (UK), Creative Academy (Slough) and Harlequin Floors (UK)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2020/12/18/the-protocol/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/18/the-protocol/</guid>
+        
+        <category>dance</category>
+        
+        <category>ava-dance</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dotdotdot Dance: Blue Ghost</title>
+        <description>&lt;p&gt;We have been doing some preliminary research and composition for for a new project by &lt;a href=&quot;https://www.dotdotdotdance.com/&quot;&gt;Dotdotdot Dance&lt;/a&gt;, pencilled to tour in 2021. Touring dates and venues to be confirmed.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2020/12/12/blue-ghost/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/12/blue-ghost/</guid>
+        
+        <category>blue-ghost</category>
+        
+        <category>dotdotdot</category>
+        
+        <category>dance</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Max Interface Design in Javascript</title>
+        <description>&lt;p&gt;Another &lt;a href=&quot;https://musichackspace.org/events/interface-design-in-max-with-js-jsui/&quot;&gt;workshop for Music Hackspace&lt;/a&gt;, October 31st.&lt;/p&gt;
+
+&lt;p&gt;In this workshop we’ll look at scripting techniques for changing the appearance and behaviour of Max patchers, and the use of Javascript graphics to build new types of on-screen displays and controls.&lt;/p&gt;
+
+&lt;p&gt;Max contains an embedded Javascript engine which can be used to control aspects of Max from a textual language, providing more power and versatility than the default click-and-drag graphical interface which Max programmers are used to. The Javascript engine also has an embedded graphics system, allowing totally new and innovative interface elements to be created and embedded into the familiar Max world.&lt;/p&gt;
+
+&lt;p&gt;Topics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Max&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Patchers and scripting&lt;/li&gt;
+  &lt;li&gt;Graphics libraries&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Requirements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Difficulty level: intermediate&lt;/li&gt;
+  &lt;li&gt;A good working knowledge of Max is expected&lt;/li&gt;
+  &lt;li&gt;Some familiarity with textual programming languages and graphics programming would be useful, but not required&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 24 Oct 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/10/24/interface-design-js-jsui/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/24/interface-design-js-jsui/</guid>
+        
+        <category>javascript</category>
+        
+        <category>maxmsp</category>
+        
+        <category>music-hackspace</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Audio Damage Continua</title>
+        <description>&lt;p&gt;Review &lt;a href=&quot;https://www.soundonsound.com/reviews/audio-damage-continua&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Sep 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/09/12/audio-damage-continua/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/12/audio-damage-continua/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>article</category>
+        
+        <category>continua</category>
+        
+        <category>audio-damage</category>
+        
+        <category>review</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Khyal Geometries, Map&amp;Fold</title>
+        <description>&lt;p&gt;A new, post-Covid outing for &lt;a href=&quot;https://khyalgeometries.com&quot;&gt;Khyal Geometries&lt;/a&gt; in Tübingen on Saturday. Venue: &lt;a href=&quot;http://www.schlachthaus-tuebingen.de/&quot;&gt;Schlachthaus&lt;/a&gt;, Schlachthausstraße 9, 72074 Tübingen.&lt;/p&gt;
+
+&lt;p&gt;Official web site &lt;a href=&quot;https://mapandfold.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Eventbrite link &lt;a href=&quot;https://www.eventbrite.de/e/map-fold-festival-2020-tickets-118591471283&quot;&gt;here&lt;/a&gt;. (Ticketed only: keine Abendkasse.)&lt;/p&gt;
+
+&lt;p&gt;There will apparently be online access to the event as well.&lt;/p&gt;
+
+&lt;p&gt;Technologically a slight shift from &lt;a href=&quot;/2019/08/04/khyal-geometries/&quot;&gt;last year’s setup&lt;/a&gt;: not so much live coding, more a shift into DAW territory with Bitwig Studio hosting, plus custom performance setup with Max and &lt;a href=&quot;https://cycling74.com/products/mira&quot;&gt;Mira&lt;/a&gt;. This follows the usual pattern of projects alternating back and forth between code-based and environment-based. In this case we need Bitwig’s modular environment as well.&lt;/p&gt;
+
+&lt;p&gt;Also: expect custom visuals.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2642.327599677736!2d9.062447315828488!3d48.52695323193961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799e532143f4acb%3A0x8570520898adf158!2sSchlachthausstra%C3%9Fe%209%2C%2072074%20T%C3%BCbingen!5e0!3m2!1sen!2sde!4v1599127082949!5m2!1sen!2sde&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/09/03/map-and-fold/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/03/map-and-fold/</guid>
+        
+        <category>khyal-geometries</category>
+        
+        <category>bitwig</category>
+        
+        <category>maxmsp</category>
+        
+        <category>gig</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Patching the Web</title>
+        <description>&lt;p&gt;Another Music Hackspace workshop on Max and Node.js: &lt;a href=&quot;https://musichackspace.org/events/max-and-node-js-patching-the-web/&quot;&gt;Patching the Web&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Difficulty level: intermediate.&lt;/p&gt;
+
+&lt;p&gt;Javascript is the glue of the Internet, the universal language that runs in billions of web browsers and networked systems across the world. Max’s Node support connects the Max program into the ecosystem of Node.js, a Javascript engine which can network, talk to hardware, connect to databases, run sophisticated web servers, and much more.&lt;/p&gt;
+
+&lt;p&gt;In this workshop we’ll look at connecting Max to web browsers, and explore techniques for routing information and gestures back and forth between Max patchers and dynamic web pages, opening the door to networked or hybrid interfaces taking advantage of both the Max and the web world.&lt;/p&gt;
+
+&lt;h2 id=&quot;topics&quot;&gt;Topics:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Max&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Web technologies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements:&lt;/h2&gt;
+
+&lt;p&gt;A good working knowledge of Max is expected. Some familiarity with textual programming languages and web technologies (HTML, CSS) would be useful, but not required.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/07/09/patching-the-web/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/09/patching-the-web/</guid>
+        
+        <category>javascript</category>
+        
+        <category>node-js</category>
+        
+        <category>maxmsp</category>
+        
+        <category>music-hackspace</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>TooMortal: Facebook Premiere</title>
+        <description>&lt;p&gt;TooMortal is being given its online premiere on Facebook tomorrow. A link should be available from the &lt;a href=&quot;https://www.facebook.com/ShobanaJeyasinghDC/&quot;&gt;Shobana Jeyasingh&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;p&gt;Due to licencing restrictions involving the processed audio from MacMillan’s Tenebrae Responsories, I’ve never been able to make the soundtrack available outside live performances, so this will be a rare opportunity to hear it.&lt;/p&gt;
+
+&lt;p&gt;Here’s a taster video from 2013 (follow the link through to YouTube to play):&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/0xbfu683PA8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Here is a brief &lt;a href=&quot;https://sanjoyroy.net/2012/06/shobana-jeyasingh-too-mortal/&quot;&gt;programme note&lt;/a&gt; on the piece written by reviewer Sanjoy Roy back in 2012.&lt;/p&gt;
+
+&lt;p&gt;The piece is described in the Surface Tension podcast here:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/651369257&amp;amp;color=%231c3a36&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;(Also mentioned: &lt;a href=&quot;/2010/05/05/trespass-at-somerset-house/&quot;&gt;Counterpoint&lt;/a&gt;, for which we also composed the score.)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jun 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/06/21/toomortal-facebook-premiere/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/21/toomortal-facebook-premiere/</guid>
+        
+        <category>shobana-jeyasingh</category>
+        
+        <category>toomortal</category>
+        
+        <category>james-macmillan</category>
+        
+        <category>tenebrae-responsories</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Age of Javascript</title>
+        <description>&lt;p&gt;The first of (hopefully) a series of online Max and creative technology workshops run for Music Hackspace: &lt;a href=&quot;https://musichackspace.org/events/max-and-node-js-the-age-of-javascript/&quot;&gt;Max and Node.js: Age of Javascript&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description:&lt;/h2&gt;
+
+&lt;p&gt;Javascript is the glue of the Internet, the universal language that runs in billions of web browsers and networked systems across the world. Max’s Node support connects the Max program into the ecosystem of Node.js, a Javascript engine which can network, talk to hardware, connect to databases, run sophisticated web servers, and much more.&lt;/p&gt;
+
+&lt;p&gt;In the workshop we’ll look at the link between Max and Node, and how the different worlds of graphical and textual programming connect. We’ll also look at some specific Javascript coding techniques and connect them to the 3D world of Max’s Jitter and OpenGL systems. From there we will start to explore ways to attach Max to web servers, allowing Max’s data to flow into and out of dynamic web pages.&lt;/p&gt;
+
+&lt;h3 id=&quot;topics&quot;&gt;Topics:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Max&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Web technologies&lt;/li&gt;
+  &lt;li&gt;Jitter and 3D Graphics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Difficulty level: intermediate. A good working knowledge of Max is expected, as well as an awareness of how Jitter works. Some familiarity with textual programming languages and/or web technologies would be useful, but not required.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jun 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/06/13/age-of-javascript/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/13/age-of-javascript/</guid>
+        
+        <category>javascript</category>
+        
+        <category>node-js</category>
+        
+        <category>maxmsp</category>
+        
+        <category>music-hackspace</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
