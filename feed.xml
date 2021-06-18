@@ -5,9 +5,41 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 03 Apr 2021 20:17:02 +0100</pubDate>
-    <lastBuildDate>Sat, 03 Apr 2021 20:17:02 +0100</lastBuildDate>
+    <pubDate>Fri, 18 Jun 2021 20:01:48 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Jun 2021 20:01:48 +0100</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>The Protocol: Sound Design</title>
+        <description>&lt;p&gt;The Protocol has been doing really well in short film awards over the last few months: more details &lt;a href=&quot;https://www.avadancecompany.com/the-protocol-film.html&quot;&gt;here&lt;/a&gt;. I am really pleased for the entire team, and also pleased to have a specific sound design award for the score. OK, so the awards are monthly, but 31 days of fame is much better than 15 minutes.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Jun 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2021/06/18/the-protocol-sound.design/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/06/18/the-protocol-sound.design/</guid>
+        
+        <category>dance</category>
+        
+        <category>ava-dance</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>ROLI LUMI Keys</title>
+        <description>&lt;p&gt;My review of &lt;a href=&quot;https://roli.com/products/blocks/lumi-keys-studio-edition&quot;&gt;ROLI LUMI Keys Studio Edition&lt;/a&gt; is out in the &lt;a href=&quot;https://www.soundonsound.com/reviews/roli-lumi-keys-studio-edition&quot;&gt;July 2021 Sound On Sound&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Jun 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2021/06/18/lumi-keys/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/06/18/lumi-keys/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>roli</category>
+        
+        <category>article</category>
+        
+        
+      </item>
     
       <item>
         <title>Ableton Live 11 Review</title>
@@ -228,75 +260,6 @@
         <pubDate>Thu, 09 Jul 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2020/07/09/patching-the-web/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/07/09/patching-the-web/</guid>
-        
-        <category>javascript</category>
-        
-        <category>node-js</category>
-        
-        <category>maxmsp</category>
-        
-        <category>music-hackspace</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>TooMortal: Facebook Premiere</title>
-        <description>&lt;p&gt;TooMortal is being given its online premiere on Facebook tomorrow. A link should be available from the &lt;a href=&quot;https://www.facebook.com/ShobanaJeyasinghDC/&quot;&gt;Shobana Jeyasingh&lt;/a&gt; page.&lt;/p&gt;
-
-&lt;p&gt;Due to licencing restrictions involving the processed audio from MacMillan’s Tenebrae Responsories, I’ve never been able to make the soundtrack available outside live performances, so this will be a rare opportunity to hear it.&lt;/p&gt;
-
-&lt;p&gt;Here’s a taster video from 2013 (follow the link through to YouTube to play):&lt;/p&gt;
-
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/0xbfu683PA8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Here is a brief &lt;a href=&quot;https://sanjoyroy.net/2012/06/shobana-jeyasingh-too-mortal/&quot;&gt;programme note&lt;/a&gt; on the piece written by reviewer Sanjoy Roy back in 2012.&lt;/p&gt;
-
-&lt;p&gt;The piece is described in the Surface Tension podcast here:&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/651369257&amp;amp;color=%231c3a36&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;(Also mentioned: &lt;a href=&quot;/2010/05/05/trespass-at-somerset-house/&quot;&gt;Counterpoint&lt;/a&gt;, for which we also composed the score.)&lt;/p&gt;
-</description>
-        <pubDate>Sun, 21 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/06/21/toomortal-facebook-premiere/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/06/21/toomortal-facebook-premiere/</guid>
-        
-        <category>shobana-jeyasingh</category>
-        
-        <category>toomortal</category>
-        
-        <category>james-macmillan</category>
-        
-        <category>tenebrae-responsories</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Age of Javascript</title>
-        <description>&lt;p&gt;The first of (hopefully) a series of online Max and creative technology workshops run for Music Hackspace: &lt;a href=&quot;https://musichackspace.org/events/max-and-node-js-the-age-of-javascript/&quot;&gt;Max and Node.js: Age of Javascript&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;description&quot;&gt;Description:&lt;/h2&gt;
-
-&lt;p&gt;Javascript is the glue of the Internet, the universal language that runs in billions of web browsers and networked systems across the world. Max’s Node support connects the Max program into the ecosystem of Node.js, a Javascript engine which can network, talk to hardware, connect to databases, run sophisticated web servers, and much more.&lt;/p&gt;
-
-&lt;p&gt;In the workshop we’ll look at the link between Max and Node, and how the different worlds of graphical and textual programming connect. We’ll also look at some specific Javascript coding techniques and connect them to the 3D world of Max’s Jitter and OpenGL systems. From there we will start to explore ways to attach Max to web servers, allowing Max’s data to flow into and out of dynamic web pages.&lt;/p&gt;
-
-&lt;h3 id=&quot;topics&quot;&gt;Topics:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Max&lt;/li&gt;
-  &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;Web technologies&lt;/li&gt;
-  &lt;li&gt;Jitter and 3D Graphics&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Difficulty level: intermediate. A good working knowledge of Max is expected, as well as an awareness of how Jitter works. Some familiarity with textual programming languages and/or web technologies would be useful, but not required.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/06/13/age-of-javascript/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/06/13/age-of-javascript/</guid>
         
         <category>javascript</category>
         
