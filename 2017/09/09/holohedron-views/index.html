@@ -21,7 +21,7 @@
 
     <title>Holohedron Views - Cassiel</title>
 
-    <link rel="canonical" href="http://localhost:4000/2017/09/09/holohedron-views/">
+    <link rel="canonical" href="http://cassiel.com/2017/09/09/holohedron-views/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -863,37 +863,37 @@
 
 <p>And here’s the code:</p>
 
-<figure class="highlight"><pre><code class="language-clojurescript" data-lang="clojurescript"><span></span><span class="p">(</span><span class="k">def </span><span class="nv">tetra-plane</span>
-  <span class="p">(</span><span class="nf">gx/affine-generator</span> <span class="p">[[</span><span class="mi">-1</span> <span class="mi">-1</span> <span class="mi">1</span><span class="p">]</span> <span class="p">[</span><span class="mi">1</span> <span class="mi">-1</span> <span class="mi">-1</span><span class="p">]</span> <span class="p">[</span><span class="mi">-1</span> <span class="mi">1</span> <span class="mi">-1</span><span class="p">]]</span>
-                       <span class="p">[[</span><span class="mi">-1</span> <span class="mi">-1</span> <span class="mi">0</span><span class="p">]</span> <span class="p">[</span><span class="mi">1</span> <span class="mi">1</span> <span class="mi">0</span><span class="p">]</span> <span class="p">[</span><span class="mi">1</span> <span class="mi">-1</span> <span class="mi">0</span><span class="p">]]</span>
-                       <span class="p">(</span><span class="nf">gx/z-proximal-generator</span> <span class="mi">0</span>
-                         <span class="p">(</span><span class="nf">gx/wrap-basis-fn</span> <span class="mi">0</span> <span class="p">(</span><span class="k">fn </span><span class="p">[</span><span class="nv">x</span> <span class="nv">y</span> <span class="nv">z</span> <span class="nv">t</span><span class="p">]</span> <span class="mf">1.0</span><span class="p">)))))</span></code></pre></figure>
+<figure class="highlight"><pre><code class="language-clojurescript" data-lang="clojurescript">(def tetra-plane
+  (gx/affine-generator [[-1 -1 1] [1 -1 -1] [-1 1 -1]]
+                       [[-1 -1 0] [1 1 0] [1 -1 0]]
+                       (gx/z-proximal-generator 0
+                         (gx/wrap-basis-fn 0 (fn [x y z t] 1.0)))))</code></pre></figure>
 
 <p>Let’s read that from the inside out. <code>(fn [x y z t] 1.0)</code> is the initial generator which just outputs white (<code>1.0</code>) everywhere. The <code>z-proximal-generator</code> transforms that into a generator which puts out its value of <code>1.0</code> near the \( z = 0 \) plane and fades it to zero away from that plane. Then the <code>affine-generator</code> shifts the display. Anything we look at on the plane <code>[-1 -1 1] [1 -1 -1] [-1 1 -1]</code> (the Holohedron tetrahedral plane) will be calculated by looking at the enclosed generator on the plane <code>[-1 -1 0] [1 1 0] [1 -1 0]</code>, which you can see is specified by a triangle of three distinct points where \( z = 0 \).</p>
 
 <p>We’ll look at the affine mapping in another post, but we should explain the <code>wrap-basis-fn</code> call. The functions over \( (x, y, z, t) \) which we’ve called “generators” are better described as “basis functions”. (That’s not an accurate use of the mathematical term, but we stole the usage from <a href="https://cycling74.com/products/max/">Jitter</a>.) Once we started working in Emscripten, it became clear that we’d probably be working with generators which have a non-trivial iteration from one time interval to the next (and possibly side-effecting too). An obvious example of this is Game of Life, which of course we were compelled to implement. So, it made sense to separate the advance of time from the “sampling” operation at \( (x, y, z) \). Hence, generators. This is the protocol:</p>
 
-<figure class="highlight"><pre><code class="language-clojurescript" data-lang="clojurescript"><span></span><span class="p">(</span><span class="kd">defprotocol </span><span class="nv">GENERATOR</span>
-  <span class="s">&quot;Generator form which separates time progression from x/y/z sampling.&quot;</span>
+<figure class="highlight"><pre><code class="language-clojurescript" data-lang="clojurescript">(defprotocol GENERATOR
+  "Generator form which separates time progression from x/y/z sampling."
 
-  <span class="p">(</span><span class="nf">locate</span> <span class="p">[</span><span class="nv">this</span> <span class="nv">t</span><span class="p">]</span>
-    <span class="s">&quot;Locate to time `t`, return new state. (For Emscripten generators,</span>
-<span class="s">     may well just side-effect.)&quot;</span><span class="p">)</span>
-  <span class="p">(</span><span class="nf">sample</span> <span class="p">[</span><span class="nv">this</span> <span class="nv">x</span> <span class="nv">y</span> <span class="nv">z</span><span class="p">]</span>
-    <span class="s">&quot;Sample state at current time and `(x, y, z)`. Return single value</span>
-<span class="s">     or RGB triple.&quot;</span><span class="p">))</span></code></pre></figure>
+  (locate [this t]
+    "Locate to time `t`, return new state. (For Emscripten generators,
+     may well just side-effect.)")
+  (sample [this x y z]
+    "Sample state at current time and `(x, y, z)`. Return single value
+     or RGB triple."))</code></pre></figure>
 
 <p>It’s trivial to take a basis function over \( (x, y, z, t) \) and turn it into a generator:</p>
 
-<figure class="highlight"><pre><code class="language-clojurescript" data-lang="clojurescript"><span></span><span class="p">(</span><span class="kd">defn </span><span class="nv">wrap-basis-fn</span>
-  <span class="s">&quot;Wrap a simple `(x, y, z, t)` basis function into a `GENERATOR` form.&quot;</span>
-  <span class="p">[</span><span class="nv">t</span> <span class="nv">f</span><span class="p">]</span>
-  <span class="p">(</span><span class="nf">reify</span> <span class="nv">GENERATOR</span>
-    <span class="p">(</span><span class="nf">locate</span> <span class="p">[</span><span class="nv">this</span> <span class="nv">t</span><span class="o">&#39;</span><span class="p">]</span>
-      <span class="p">(</span><span class="nf">wrap-basis-fn</span> <span class="nv">t</span><span class="o">&#39;</span> <span class="nv">f</span><span class="p">))</span>
+<figure class="highlight"><pre><code class="language-clojurescript" data-lang="clojurescript">(defn wrap-basis-fn
+  "Wrap a simple `(x, y, z, t)` basis function into a `GENERATOR` form."
+  [t f]
+  (reify GENERATOR
+    (locate [this t']
+      (wrap-basis-fn t' f))
 
-    <span class="p">(</span><span class="nf">sample</span> <span class="p">[</span><span class="nv">this</span> <span class="nv">x</span> <span class="nv">y</span> <span class="nv">z</span><span class="p">]</span>
-      <span class="p">(</span><span class="nf">f</span> <span class="nv">x</span> <span class="nv">y</span> <span class="nv">z</span> <span class="nv">t</span><span class="p">))))</span></code></pre></figure>
+    (sample [this x y z]
+      (f x y z t))))</code></pre></figure>
 
 <p>And so to the money shots. We have a Game of Life implementation, which plays Life in the X-Y plane while scrolling successive generations through Z. Rendered into our Cartesian grid, it looks like this:</p>
 
@@ -1046,6 +1046,14 @@
       </li>
     
       
+      <li><a href="/tag/shobana-jeyasingh">
+        
+        Shobana Jeyasingh
+        </a>
+        <span class="faint">6<span>
+      </li>
+    
+      
       <li><a href="/tag/monome">
         
         Monome
@@ -1070,11 +1078,11 @@
       </li>
     
       
-      <li><a href="/tag/shobana-jeyasingh">
+      <li><a href="/tag/toomortal">
         
-        Shobana Jeyasingh
+        TooMortal
         </a>
-        <span class="faint">5<span>
+        <span class="faint">4<span>
       </li>
     
       
@@ -1134,9 +1142,9 @@
       </li>
     
       
-      <li><a href="/tag/toomortal">
+      <li><a href="/tag/tenebrae-responsories">
         
-        TooMortal
+        Tenebrae Responsories
         </a>
         <span class="faint">3<span>
       </li>
@@ -1193,6 +1201,14 @@
       <li><a href="/tag/javascript">
         
         Javascript
+        </a>
+        <span class="faint">3<span>
+      </li>
+    
+      
+      <li><a href="/tag/james-macmillan">
+        
+        James MacMillan
         </a>
         <span class="faint">3<span>
       </li>
@@ -1265,14 +1281,6 @@
       <li><a href="/tag/three-js">
         
         three.js
-        </a>
-        <span class="faint">2<span>
-      </li>
-    
-      
-      <li><a href="/tag/tenebrae-responsories">
-        
-        Tenebrae Responsories
         </a>
         <span class="faint">2<span>
       </li>
@@ -1385,14 +1393,6 @@
       <li><a href="/tag/java">
         
         Java
-        </a>
-        <span class="faint">2<span>
-      </li>
-    
-      
-      <li><a href="/tag/james-macmillan">
-        
-        James MacMillan
         </a>
         <span class="faint">2<span>
       </li>

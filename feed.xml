@@ -3,19 +3,46 @@
   <channel>
     <title>Cassiel</title>
     <description>Cassiel: music, media, systems, performance, installation</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 18 Jun 2021 20:01:48 +0100</pubDate>
-    <lastBuildDate>Fri, 18 Jun 2021 20:01:48 +0100</lastBuildDate>
-    <generator>Jekyll v3.7.2</generator>
+    <link>http://cassiel.com/</link>
+    <atom:link href="http://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 05 Sep 2021 12:07:23 +0100</pubDate>
+    <lastBuildDate>Sun, 05 Sep 2021 12:07:23 +0100</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>TooMortal, London / Finland</title>
+        <description>&lt;p&gt;TooMortal is on the road again, showing in London (at one of the original 2012 venues) in September, and in Finland in October, as part of the Kuopio Dance Festival.&lt;/p&gt;
+
+&lt;p&gt;Dates:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;24th–25th September: St. Pancras Church. Tickets &lt;a href=&quot;https://www.eventbrite.co.uk/o/shobana-jeyasingh-dance-13579829017&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;13th October - Pyhän Ristin Church, Iisalmi.&lt;/li&gt;
+  &lt;li&gt;15th–16th October - Männistö Catholic Church, Kuopio. Information and tickets &lt;a href=&quot;https://www.kuopiodancefestival.fi/shobana-jeyasingh-dance-96802&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 05 Sep 2021 00:00:00 +0100</pubDate>
+        <link>http://cassiel.com/2021/09/05/toomortal/</link>
+        <guid isPermaLink="true">http://cassiel.com/2021/09/05/toomortal/</guid>
+        
+        <category>shobana-jeyasingh</category>
+        
+        <category>toomortal</category>
+        
+        <category>james-macmillan</category>
+        
+        <category>tenebrae-responsories</category>
+        
+        
+      </item>
     
       <item>
         <title>The Protocol: Sound Design</title>
         <description>&lt;p&gt;The Protocol has been doing really well in short film awards over the last few months: more details &lt;a href=&quot;https://www.avadancecompany.com/the-protocol-film.html&quot;&gt;here&lt;/a&gt;. I am really pleased for the entire team, and also pleased to have a specific sound design award for the score. OK, so the awards are monthly, but 31 days of fame is much better than 15 minutes.&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Jun 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/06/18/the-protocol-sound.design/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/06/18/the-protocol-sound.design/</guid>
+        <link>http://cassiel.com/2021/06/18/the-protocol-sound.design/</link>
+        <guid isPermaLink="true">http://cassiel.com/2021/06/18/the-protocol-sound.design/</guid>
         
         <category>dance</category>
         
@@ -29,8 +56,8 @@
         <description>&lt;p&gt;My review of &lt;a href=&quot;https://roli.com/products/blocks/lumi-keys-studio-edition&quot;&gt;ROLI LUMI Keys Studio Edition&lt;/a&gt; is out in the &lt;a href=&quot;https://www.soundonsound.com/reviews/roli-lumi-keys-studio-edition&quot;&gt;July 2021 Sound On Sound&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Jun 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/06/18/lumi-keys/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/06/18/lumi-keys/</guid>
+        <link>http://cassiel.com/2021/06/18/lumi-keys/</link>
+        <guid isPermaLink="true">http://cassiel.com/2021/06/18/lumi-keys/</guid>
         
         <category>sound-on-sound</category>
         
@@ -46,8 +73,8 @@
         <description>&lt;p&gt;My review of &lt;a href=&quot;https://www.ableton.com/en/live/&quot;&gt;Ableton Live 11&lt;/a&gt; is out in the &lt;a href=&quot;https://www.soundonsound.com/reviews/ableton-live-11&quot;&gt;March 2021 Sound On Sound&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/02/20/live-11/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/02/20/live-11/</guid>
+        <link>http://cassiel.com/2021/02/20/live-11/</link>
+        <guid isPermaLink="true">http://cassiel.com/2021/02/20/live-11/</guid>
         
         <category>sound-on-sound</category>
         
@@ -69,8 +96,8 @@
 &lt;p&gt;Every cube has a unique artwork theme for the six images; this is the first cube with true code-driven artwork (although CUBE 09 had imagery that was software-generated). The artwork here is generated in &lt;a href=&quot;https://solandra.netlify.app/&quot;&gt;Solandra&lt;/a&gt;, which can be thought of as an up-market &lt;a href=&quot;https://p5js.org/&quot;&gt;p5.js&lt;/a&gt; with functional structuring and a high-level drawing API. It’s also &lt;a href=&quot;https://www.typescriptlang.org/&quot;&gt;TypeScript&lt;/a&gt;-compatible, if you’re happy to wheel in the whole &lt;a href=&quot;https://www.gatsbyjs.com/&quot;&gt;Gatsby&lt;/a&gt; environment to get that working. Downside: that’s all a bit complicated and takes time and effort to get in the air. Upside: it’s a nice system, supports hot-loading of code and page content, and if you edit in &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; you even get editor-level semantic checking. It could be time to jump ship from Jekyll for this site.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/01/07/cube-10/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/01/07/cube-10/</guid>
+        <link>http://cassiel.com/2021/01/07/cube-10/</link>
+        <guid isPermaLink="true">http://cassiel.com/2021/01/07/cube-10/</guid>
         
         <category>podcast</category>
         
@@ -117,8 +144,8 @@
 &lt;p&gt;​Support in kind by: Maninahat Productions (UK), EiMa Creació (Spain), Birmingham Royal Ballet (UK), Motion House (UK), Creative Academy (Slough) and Harlequin Floors (UK)&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/12/18/the-protocol/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/12/18/the-protocol/</guid>
+        <link>http://cassiel.com/2020/12/18/the-protocol/</link>
+        <guid isPermaLink="true">http://cassiel.com/2020/12/18/the-protocol/</guid>
         
         <category>dance</category>
         
@@ -132,8 +159,8 @@
         <description>&lt;p&gt;We have been doing some preliminary research and composition for for a new project by &lt;a href=&quot;https://www.dotdotdotdance.com/&quot;&gt;Dotdotdot Dance&lt;/a&gt;, pencilled to tour in 2021. Touring dates and venues to be confirmed.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020/12/12/blue-ghost/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/12/12/blue-ghost/</guid>
+        <link>http://cassiel.com/2020/12/12/blue-ghost/</link>
+        <guid isPermaLink="true">http://cassiel.com/2020/12/12/blue-ghost/</guid>
         
         <category>blue-ghost</category>
         
@@ -170,8 +197,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 24 Oct 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/10/24/interface-design-js-jsui/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/10/24/interface-design-js-jsui/</guid>
+        <link>http://cassiel.com/2020/10/24/interface-design-js-jsui/</link>
+        <guid isPermaLink="true">http://cassiel.com/2020/10/24/interface-design-js-jsui/</guid>
         
         <category>javascript</category>
         
@@ -187,8 +214,8 @@
         <description>&lt;p&gt;Review &lt;a href=&quot;https://www.soundonsound.com/reviews/audio-damage-continua&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Sep 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/09/12/audio-damage-continua/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/12/audio-damage-continua/</guid>
+        <link>http://cassiel.com/2020/09/12/audio-damage-continua/</link>
+        <guid isPermaLink="true">http://cassiel.com/2020/09/12/audio-damage-continua/</guid>
         
         <category>sound-on-sound</category>
         
@@ -221,8 +248,8 @@
 
 </description>
         <pubDate>Thu, 03 Sep 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/09/03/map-and-fold/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/03/map-and-fold/</guid>
+        <link>http://cassiel.com/2020/09/03/map-and-fold/</link>
+        <guid isPermaLink="true">http://cassiel.com/2020/09/03/map-and-fold/</guid>
         
         <category>khyal-geometries</category>
         
@@ -231,43 +258,6 @@
         <category>maxmsp</category>
         
         <category>gig</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Patching the Web</title>
-        <description>&lt;p&gt;Another Music Hackspace workshop on Max and Node.js: &lt;a href=&quot;https://musichackspace.org/events/max-and-node-js-patching-the-web/&quot;&gt;Patching the Web&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Difficulty level: intermediate.&lt;/p&gt;
-
-&lt;p&gt;Javascript is the glue of the Internet, the universal language that runs in billions of web browsers and networked systems across the world. Max’s Node support connects the Max program into the ecosystem of Node.js, a Javascript engine which can network, talk to hardware, connect to databases, run sophisticated web servers, and much more.&lt;/p&gt;
-
-&lt;p&gt;In this workshop we’ll look at connecting Max to web browsers, and explore techniques for routing information and gestures back and forth between Max patchers and dynamic web pages, opening the door to networked or hybrid interfaces taking advantage of both the Max and the web world.&lt;/p&gt;
-
-&lt;h2 id=&quot;topics&quot;&gt;Topics:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Max&lt;/li&gt;
-  &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;Web technologies&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;requirements&quot;&gt;Requirements:&lt;/h2&gt;
-
-&lt;p&gt;A good working knowledge of Max is expected. Some familiarity with textual programming languages and web technologies (HTML, CSS) would be useful, but not required.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Jul 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/07/09/patching-the-web/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/07/09/patching-the-web/</guid>
-        
-        <category>javascript</category>
-        
-        <category>node-js</category>
-        
-        <category>maxmsp</category>
-        
-        <category>music-hackspace</category>
         
         
       </item>
