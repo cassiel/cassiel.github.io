@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://cassiel.com/</link>
     <atom:link href="http://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Sep 2021 12:07:23 +0100</pubDate>
-    <lastBuildDate>Sun, 05 Sep 2021 12:07:23 +0100</lastBuildDate>
+    <pubDate>Tue, 19 Oct 2021 20:23:55 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Oct 2021 20:23:55 +0100</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>ROLI Equator2</title>
+        <description>&lt;p&gt;My review of &lt;a href=&quot;https://roli.com/products/software/equator2/overview&quot;&gt;ROLI Equator2&lt;/a&gt; is out in the &lt;a href=&quot;https://www.soundonsound.com/reviews/roli-equator2&quot;&gt;October 2021 Sound On Sound&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Oct 2021 00:00:00 +0100</pubDate>
+        <link>http://cassiel.com/2021/10/19/roli-equator2/</link>
+        <guid isPermaLink="true">http://cassiel.com/2021/10/19/roli-equator2/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>roli</category>
+        
+        <category>article</category>
+        
+        
+      </item>
     
       <item>
         <title>TooMortal, London / Finland</title>
@@ -226,38 +243,6 @@
         <category>audio-damage</category>
         
         <category>review</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Khyal Geometries, Map&amp;Fold</title>
-        <description>&lt;p&gt;A new, post-Covid outing for &lt;a href=&quot;https://khyalgeometries.com&quot;&gt;Khyal Geometries&lt;/a&gt; in Tübingen on Saturday. Venue: &lt;a href=&quot;http://www.schlachthaus-tuebingen.de/&quot;&gt;Schlachthaus&lt;/a&gt;, Schlachthausstraße 9, 72074 Tübingen.&lt;/p&gt;
-
-&lt;p&gt;Official web site &lt;a href=&quot;https://mapandfold.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Eventbrite link &lt;a href=&quot;https://www.eventbrite.de/e/map-fold-festival-2020-tickets-118591471283&quot;&gt;here&lt;/a&gt;. (Ticketed only: keine Abendkasse.)&lt;/p&gt;
-
-&lt;p&gt;There will apparently be online access to the event as well.&lt;/p&gt;
-
-&lt;p&gt;Technologically a slight shift from &lt;a href=&quot;/2019/08/04/khyal-geometries/&quot;&gt;last year’s setup&lt;/a&gt;: not so much live coding, more a shift into DAW territory with Bitwig Studio hosting, plus custom performance setup with Max and &lt;a href=&quot;https://cycling74.com/products/mira&quot;&gt;Mira&lt;/a&gt;. This follows the usual pattern of projects alternating back and forth between code-based and environment-based. In this case we need Bitwig’s modular environment as well.&lt;/p&gt;
-
-&lt;p&gt;Also: expect custom visuals.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2642.327599677736!2d9.062447315828488!3d48.52695323193961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799e532143f4acb%3A0x8570520898adf158!2sSchlachthausstra%C3%9Fe%209%2C%2072074%20T%C3%BCbingen!5e0!3m2!1sen!2sde!4v1599127082949!5m2!1sen!2sde&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Thu, 03 Sep 2020 00:00:00 +0100</pubDate>
-        <link>http://cassiel.com/2020/09/03/map-and-fold/</link>
-        <guid isPermaLink="true">http://cassiel.com/2020/09/03/map-and-fold/</guid>
-        
-        <category>khyal-geometries</category>
-        
-        <category>bitwig</category>
-        
-        <category>maxmsp</category>
-        
-        <category>gig</category>
         
         
       </item>
