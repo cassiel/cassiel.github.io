@@ -5,12 +5,31 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://cassiel.com/</link>
     <atom:link href="http://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 19 Oct 2021 20:23:55 +0100</pubDate>
-    <lastBuildDate>Tue, 19 Oct 2021 20:23:55 +0100</lastBuildDate>
+    <pubDate>Sat, 06 Nov 2021 21:32:46 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Nov 2021 21:32:46 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>ROLI Equator2</title>
+        <title>Bitwig Studio 4 Review</title>
+        <description>&lt;p&gt;Review: &lt;a href=&quot;https://www.bitwig.com/overview/&quot;&gt;Bitwig Studio 4&lt;/a&gt; in &lt;a href=&quot;https://www.soundonsound.com/reviews/bitwig-studio-4&quot;&gt;Sound On Sound&lt;/a&gt;, November 2021.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+        <link>http://cassiel.com/2021/11/06/bitwig-studio-4/</link>
+        <guid isPermaLink="true">http://cassiel.com/2021/11/06/bitwig-studio-4/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>bitwig</category>
+        
+        <category>review</category>
+        
+        <category>article</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>ROLI Equator2 Review</title>
         <description>&lt;p&gt;My review of &lt;a href=&quot;https://roli.com/products/software/equator2/overview&quot;&gt;ROLI Equator2&lt;/a&gt; is out in the &lt;a href=&quot;https://www.soundonsound.com/reviews/roli-equator2&quot;&gt;October 2021 Sound On Sound&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Oct 2021 00:00:00 +0100</pubDate>
@@ -222,27 +241,6 @@
         <category>maxmsp</category>
         
         <category>music-hackspace</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Audio Damage Continua</title>
-        <description>&lt;p&gt;Review &lt;a href=&quot;https://www.soundonsound.com/reviews/audio-damage-continua&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Sep 2020 00:00:00 +0100</pubDate>
-        <link>http://cassiel.com/2020/09/12/audio-damage-continua/</link>
-        <guid isPermaLink="true">http://cassiel.com/2020/09/12/audio-damage-continua/</guid>
-        
-        <category>sound-on-sound</category>
-        
-        <category>article</category>
-        
-        <category>continua</category>
-        
-        <category>audio-damage</category>
-        
-        <category>review</category>
         
         
       </item>
