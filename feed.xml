@@ -5,9 +5,42 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://cassiel.com/</link>
     <atom:link href="http://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 06 Nov 2021 21:32:46 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Nov 2021 21:32:46 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Nov 2021 19:18:56 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Nov 2021 19:18:56 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Donate Yourself</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Donate Yourself is a new work – an Augmented Reality experience created by artist Stacey Pitsillides with body&amp;gt;data&amp;gt;space. It blends sound and 3D visuals to spark debates about our organs, tissue and body data, accessed by the public through augmented reality via QR codes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Find out more about the project and how to access the AR experiences &lt;a href=&quot;https://www.onecellatatime.org/exhibits/donate-yourself/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Donate Yourself by &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/stacey/&quot;&gt;Stacey Pitsillides&lt;/a&gt; with &lt;a href=&quot;http://www.bodydataspace.net/&quot;&gt;body&amp;gt;data&amp;gt;space&lt;/a&gt; (2021). A One Cell at a Time commission with the Human Cell Atlas research initiative:&lt;/p&gt;
+
+&lt;p&gt;Designed and creatively directed by Stacey Pitsillides in collaboration with the interaction design collective body&amp;gt;data&amp;gt;space.&lt;/p&gt;
+
+&lt;p&gt;The digital AR experience has been co-created with the body&amp;gt;data&amp;gt;space team using the b&amp;gt;d&amp;gt;s AR development project: &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/core-team/ghislaine/&quot;&gt;Ghislaine Boddington&lt;/a&gt; (Creative Co-Direction), &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/core-team/tadej/&quot;&gt;Tadej Vindis&lt;/a&gt; (Project Development and Production), &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/core-team/nick/&quot;&gt;Nick Rothwell&lt;/a&gt; (Sound Design and Technical Development) and &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/associate/ivor/&quot;&gt;Ivor Diosi&lt;/a&gt; (AR Development and 3D Animation). With research and insights from Holly Standing and Luke Sellers. Donate Yourself is produced for One Cell at a Time by Dominic Smith.&lt;/p&gt;
+
+&lt;p&gt;Donate Yourself is created as part of the &lt;a href=&quot;http://www.bodydataspace.net/2020/12/research-development-project-launch-datum/&quot;&gt;AR gifting development project&lt;/a&gt; at body&amp;gt;data&amp;gt;space, supported by Innovate UK and the University of Greenwich (2021-22).&lt;/p&gt;
+
+&lt;p&gt;One Cell at a Time is a programme of public, creative engagement activities, commissions and talks, inspired by the Human Cell Atlas, bringing together arts and communities, patients and researchers. Funded by Wellcome and led by the Wellcome Sanger Institute, One Cell at a Time aims to deepen public understanding of the revolutionary impact it will have on our understanding of the human body.&lt;/p&gt;
+
+&lt;p&gt;Special thanks to XR.+ by The Lucid Dreams Company, and TL Multimedia Ltd.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+        <link>http://cassiel.com/2021/11/07/donate-yourself/</link>
+        <guid isPermaLink="true">http://cassiel.com/2021/11/07/donate-yourself/</guid>
+        
+        <category>body-data-space</category>
+        
+        <category>wellcome</category>
+        
+        
+      </item>
     
       <item>
         <title>Bitwig Studio 4 Review</title>
@@ -203,44 +236,6 @@
         <category>dotdotdot</category>
         
         <category>dance</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Max Interface Design in Javascript</title>
-        <description>&lt;p&gt;Another &lt;a href=&quot;https://musichackspace.org/events/interface-design-in-max-with-js-jsui/&quot;&gt;workshop for Music Hackspace&lt;/a&gt;, October 31st.&lt;/p&gt;
-
-&lt;p&gt;In this workshop we’ll look at scripting techniques for changing the appearance and behaviour of Max patchers, and the use of Javascript graphics to build new types of on-screen displays and controls.&lt;/p&gt;
-
-&lt;p&gt;Max contains an embedded Javascript engine which can be used to control aspects of Max from a textual language, providing more power and versatility than the default click-and-drag graphical interface which Max programmers are used to. The Javascript engine also has an embedded graphics system, allowing totally new and innovative interface elements to be created and embedded into the familiar Max world.&lt;/p&gt;
-
-&lt;p&gt;Topics:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Max&lt;/li&gt;
-  &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;Patchers and scripting&lt;/li&gt;
-  &lt;li&gt;Graphics libraries&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Requirements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Difficulty level: intermediate&lt;/li&gt;
-  &lt;li&gt;A good working knowledge of Max is expected&lt;/li&gt;
-  &lt;li&gt;Some familiarity with textual programming languages and graphics programming would be useful, but not required&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 24 Oct 2020 00:00:00 +0100</pubDate>
-        <link>http://cassiel.com/2020/10/24/interface-design-js-jsui/</link>
-        <guid isPermaLink="true">http://cassiel.com/2020/10/24/interface-design-js-jsui/</guid>
-        
-        <category>javascript</category>
-        
-        <category>maxmsp</category>
-        
-        <category>music-hackspace</category>
         
         
       </item>
