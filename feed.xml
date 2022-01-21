@@ -5,9 +5,57 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://cassiel.com/</link>
     <atom:link href="http://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 21 Nov 2021 21:06:57 +0000</pubDate>
-    <lastBuildDate>Sun, 21 Nov 2021 21:06:57 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jan 2022 20:29:56 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Jan 2022 20:29:56 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Listen/Move on Bandcamp</title>
+        <description>&lt;p&gt;It’s been a long time coming, but we finally have Listen/Move on Bandcamp. It’s divided into its two timelines, which was always the original intended structure, loosely envisaged as “journey” and “destination”.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cassiel.bandcamp.com/track/listen-move-timeline-1&quot;&gt;Timeline 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cassiel.bandcamp.com/track/listen-move-timeline-2&quot;&gt;Timeline 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The artwork for the timelines is scanned from the two CD pressing runs, the first for &lt;a href=&quot;https://www.theplace.org.uk/&quot;&gt;The Place&lt;/a&gt; Dance Theatre in London, the second for general release.&lt;/p&gt;
+
+&lt;p&gt;Longer term, the plan is to release a series of 30-minute-or-so “übertracks” as a follow-on from the &lt;a href=&quot;/project/minute-cubes/&quot;&gt;Minute Cubes&lt;/a&gt;. Listen/Move is the launch vehicle for those.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
+    &lt;div class=&quot;block-image&quot;&gt;
+      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
+      
+
+      
+        &lt;div class=&quot;image-area&quot;&gt;
+          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+          &lt;a href=&quot;
+          /img/2022/01/body/lm-1-bandcamp.jpg
+        &quot; data-lightbox=&quot;_&quot; data-title=&quot;Edition 1 with Jane Howie&quot;&gt;
+            &lt;img src=&quot;
+          /img/2022/01/body/lm-1-bandcamp.jpg
+        &quot; alt=&quot;Edition 1 with Jane Howie&quot; /&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+        <link>http://cassiel.com/2022/01/21/listen-move-bandcamp/</link>
+        <guid isPermaLink="true">http://cassiel.com/2022/01/21/listen-move-bandcamp/</guid>
+        
+        <category>bandcamp</category>
+        
+        <category>listen-move</category>
+        
+        <category>ubertracks</category>
+        
+        
+      </item>
     
       <item>
         <title>Let Them Eat Cake!</title>
@@ -196,48 +244,6 @@
         <category>solandra</category>
         
         <category>gatsby</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Protocol</title>
-        <description>&lt;h3 id=&quot;the-concept&quot;&gt;The Concept&lt;/h3&gt;
-
-&lt;p&gt;The Protocol is a contemporary dance-theatre work where three unfortunate characters find themselves in an unwanted situation: they have been chosen to be the ambassadors for the first encounter between humans and unknown visitors. Their mission is to develop a strategy (a protocol) to understand the outsider and survive this peculiar meeting. Taking this unusual setting as the starting point, the choreographer Avatâra Ayuso will take us on a journey where dance and live text question our approach to the other, reflecting on matters such as our inner fears and contradictions, prejudices and empathy.&lt;/p&gt;
-
-&lt;p&gt;This work has been designed as a triptych and exists in three formats: An indoor work for non-traditional theatre venues  //  An outdoor work   //  A short film.&lt;/p&gt;
-
-&lt;h3 id=&quot;creative-team&quot;&gt;Creative Team&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Concept, direction and choreography: Avatâra Ayuso&lt;/li&gt;
-  &lt;li&gt;Dancers: Chloe Hillyar, Georgia Thomson, Jordan Ajadi&lt;/li&gt;
-  &lt;li&gt;Dramaturg: Nacho Vleming&lt;/li&gt;
-  &lt;li&gt;Script: Avatâra Ayuso&lt;/li&gt;
-  &lt;li&gt;Sound design: Nick Rothwell&lt;/li&gt;
-  &lt;li&gt;Script consultant: Michael Walling&lt;/li&gt;
-  &lt;li&gt;Outdoor work artistic advisor: Kevin Finnan&lt;/li&gt;
-  &lt;li&gt;Set: Avatâra Ayuso&lt;/li&gt;
-  &lt;li&gt;Costume: Avatâra Ayuso and Chloe Hillyar&lt;/li&gt;
-  &lt;li&gt;Producer: Ornella Salloum&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A production by AVA DANCE COMPANY&lt;/p&gt;
-
-&lt;p&gt;Tour in 2021:    Tour Booker:  ornella @ avadancecompany.com&lt;/p&gt;
-
-&lt;p&gt;R&amp;amp;D FUNDED BY   ARTS COUNCIL ENGLAND &amp;amp; EMBASSY OF SPAIN LONDON&lt;/p&gt;
-
-&lt;p&gt;​Support in kind by: Maninahat Productions (UK), EiMa Creació (Spain), Birmingham Royal Ballet (UK), Motion House (UK), Creative Academy (Slough) and Harlequin Floors (UK)&lt;/p&gt;
-</description>
-        <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
-        <link>http://cassiel.com/2020/12/18/the-protocol/</link>
-        <guid isPermaLink="true">http://cassiel.com/2020/12/18/the-protocol/</guid>
-        
-        <category>dance</category>
-        
-        <category>ava-dance</category>
         
         
       </item>
