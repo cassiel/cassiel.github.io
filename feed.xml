@@ -5,9 +5,28 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://cassiel.com/</link>
     <atom:link href="http://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 21 Jan 2022 20:29:56 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Jan 2022 20:29:56 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Feb 2022 18:01:57 +0000</pubDate>
+    <lastBuildDate>Sat, 05 Feb 2022 18:01:57 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Audio Damage Other Desert Cities</title>
+        <description>&lt;p&gt;Review: &lt;a href=&quot;https://www.audiodamage.com/collections/software/products/ad054-other-desert-cities&quot;&gt;Other Desert Cities&lt;/a&gt; in &lt;a href=&quot;https://www.soundonsound.com/reviews/audio-damage-other-desert-cities&quot;&gt;Sound On Sound&lt;/a&gt;, February 2022.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+        <link>http://cassiel.com/2022/02/05/audio-damage-other-desert-cities/</link>
+        <guid isPermaLink="true">http://cassiel.com/2022/02/05/audio-damage-other-desert-cities/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>audio-damage</category>
+        
+        <category>review</category>
+        
+        <category>article</category>
+        
+        
+      </item>
     
       <item>
         <title>Listen/Move on Bandcamp</title>
@@ -219,31 +238,6 @@
         <category>review</category>
         
         <category>article</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Minute Cube 10</title>
-        <description>&lt;p&gt;Minute Cube 10 is &lt;a href=&quot;https://soundcloud.com/cassiel/sets/cube-10&quot;&gt;done&lt;/a&gt;, which brings us up to an hour of music in sixty one-minute tracks.&lt;/p&gt;
-
-&lt;p&gt;Full track list with players for all ten cubes is &lt;a href=&quot;/project/minute-cubes&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Every cube has a unique artwork theme for the six images; this is the first cube with true code-driven artwork (although CUBE 09 had imagery that was software-generated). The artwork here is generated in &lt;a href=&quot;https://solandra.netlify.app/&quot;&gt;Solandra&lt;/a&gt;, which can be thought of as an up-market &lt;a href=&quot;https://p5js.org/&quot;&gt;p5.js&lt;/a&gt; with functional structuring and a high-level drawing API. It’s also &lt;a href=&quot;https://www.typescriptlang.org/&quot;&gt;TypeScript&lt;/a&gt;-compatible, if you’re happy to wheel in the whole &lt;a href=&quot;https://www.gatsbyjs.com/&quot;&gt;Gatsby&lt;/a&gt; environment to get that working. Downside: that’s all a bit complicated and takes time and effort to get in the air. Upside: it’s a nice system, supports hot-loading of code and page content, and if you edit in &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; you even get editor-level semantic checking. It could be time to jump ship from Jekyll for this site.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-        <link>http://cassiel.com/2021/01/07/cube-10/</link>
-        <guid isPermaLink="true">http://cassiel.com/2021/01/07/cube-10/</guid>
-        
-        <category>podcast</category>
-        
-        <category>music</category>
-        
-        <category>minute-cubes</category>
-        
-        <category>solandra</category>
-        
-        <category>gatsby</category>
         
         
       </item>
