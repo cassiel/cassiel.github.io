@@ -650,6 +650,9 @@
                 
                 
                 
+                
+                
+                
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -878,9 +881,9 @@
                        (gx/z-proximal-generator 0
                          (gx/wrap-basis-fn 0 (fn [x y z t] 1.0)))))</code></pre></figure>
 
-<p>Let’s read that from the inside out. <code>(fn [x y z t] 1.0)</code> is the initial generator which just outputs white (<code>1.0</code>) everywhere. The <code>z-proximal-generator</code> transforms that into a generator which puts out its value of <code>1.0</code> near the \( z = 0 \) plane and fades it to zero away from that plane. Then the <code>affine-generator</code> shifts the display. Anything we look at on the plane <code>[-1 -1 1] [1 -1 -1] [-1 1 -1]</code> (the Holohedron tetrahedral plane) will be calculated by looking at the enclosed generator on the plane <code>[-1 -1 0] [1 1 0] [1 -1 0]</code>, which you can see is specified by a triangle of three distinct points where \( z = 0 \).</p>
+<p>Let’s read that from the inside out. <code class="language-plaintext highlighter-rouge">(fn [x y z t] 1.0)</code> is the initial generator which just outputs white (<code class="language-plaintext highlighter-rouge">1.0</code>) everywhere. The <code class="language-plaintext highlighter-rouge">z-proximal-generator</code> transforms that into a generator which puts out its value of <code class="language-plaintext highlighter-rouge">1.0</code> near the \( z = 0 \) plane and fades it to zero away from that plane. Then the <code class="language-plaintext highlighter-rouge">affine-generator</code> shifts the display. Anything we look at on the plane <code class="language-plaintext highlighter-rouge">[-1 -1 1] [1 -1 -1] [-1 1 -1]</code> (the Holohedron tetrahedral plane) will be calculated by looking at the enclosed generator on the plane <code class="language-plaintext highlighter-rouge">[-1 -1 0] [1 1 0] [1 -1 0]</code>, which you can see is specified by a triangle of three distinct points where \( z = 0 \).</p>
 
-<p>We’ll look at the affine mapping in another post, but we should explain the <code>wrap-basis-fn</code> call. The functions over \( (x, y, z, t) \) which we’ve called “generators” are better described as “basis functions”. (That’s not an accurate use of the mathematical term, but we stole the usage from <a href="https://cycling74.com/products/max/">Jitter</a>.) Once we started working in Emscripten, it became clear that we’d probably be working with generators which have a non-trivial iteration from one time interval to the next (and possibly side-effecting too). An obvious example of this is Game of Life, which of course we were compelled to implement. So, it made sense to separate the advance of time from the “sampling” operation at \( (x, y, z) \). Hence, generators. This is the protocol:</p>
+<p>We’ll look at the affine mapping in another post, but we should explain the <code class="language-plaintext highlighter-rouge">wrap-basis-fn</code> call. The functions over \( (x, y, z, t) \) which we’ve called “generators” are better described as “basis functions”. (That’s not an accurate use of the mathematical term, but we stole the usage from <a href="https://cycling74.com/products/max/">Jitter</a>.) Once we started working in Emscripten, it became clear that we’d probably be working with generators which have a non-trivial iteration from one time interval to the next (and possibly side-effecting too). An obvious example of this is Game of Life, which of course we were compelled to implement. So, it made sense to separate the advance of time from the “sampling” operation at \( (x, y, z) \). Hence, generators. This is the protocol:</p>
 
 <figure class="highlight"><pre><code class="language-clojurescript" data-lang="clojurescript">(defprotocol GENERATOR
   "Generator form which separates time progression from x/y/z sampling."
@@ -1898,6 +1901,14 @@
       <li><a href="/tag/lcrn">
         
         LCRN
+        </a>
+        <span class="faint">1<span>
+      </li>
+    
+      
+      <li><a href="/tag/klaus-schulze">
+        
+        Klaus Schulze
         </a>
         <span class="faint">1<span>
       </li>

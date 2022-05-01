@@ -650,6 +650,9 @@
                 
                 
                 
+                
+                
+                
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -740,19 +743,19 @@
 
       <p>Recently we’ve been working on several digital art projects using <a href="http://openendedgroup.com/field/wiki/OverviewBanners2">Field</a> as a development and presentation platform but with <a href="http://clojure.org/">Clojure</a> running the core, domain-specific algorithmic code. This choice is, admittedly, partly because Clojure is new and shiny, but we also like the Emacs- and <a href="https://github.com/technomancy/leiningen">Leiningen</a>-based development environment (complete with <a href="http://jakemccrary.com/blog/2011/12/16/continuous-testing-with-clojure-and-expectations/">continuous integration testing</a>), and Clojure’s clean functional semantics lends itself to realtime, evolutionary artworks. Since Field works at the level of Python-on-Java (via <a href="http://jython.org/">Jython</a>), and Clojure runs in the JVM, the Python and Clojure worlds inevitably collide.</p>
 
-<p>Field hosts Clojure directly - in fact, it hosts several JVM-based languages - using something called <a href="http://openendedgroup.com/field/wiki/MayaIntegration#Texttransformarea">Text Transforms</a>. Activate the Clojure transform, as in the splash image above, and execution flips from Python to Clojure and back again. The transform passes Python bindings into the Clojure namespace, and bindings made within Clojure are passed out again (within a dedicated variable called <code>_clojure</code>). Both Python and Clojure have access to anything the JVM can see via its classpath. There are one or two wrinkles (such as the hack, shown above, of making sure a variable is retrieved from the Python world before its first use in the Clojure world, since Field’s dynamic lookup machinery only works for Python), but everything pretty much just works.</p>
+<p>Field hosts Clojure directly - in fact, it hosts several JVM-based languages - using something called <a href="http://openendedgroup.com/field/wiki/MayaIntegration#Texttransformarea">Text Transforms</a>. Activate the Clojure transform, as in the splash image above, and execution flips from Python to Clojure and back again. The transform passes Python bindings into the Clojure namespace, and bindings made within Clojure are passed out again (within a dedicated variable called <code class="language-plaintext highlighter-rouge">_clojure</code>). Both Python and Clojure have access to anything the JVM can see via its classpath. There are one or two wrinkles (such as the hack, shown above, of making sure a variable is retrieved from the Python world before its first use in the Clojure world, since Field’s dynamic lookup machinery only works for Python), but everything pretty much just works.</p>
 
 <p>If we’re developing in two languages at once, we need to be able to pass information between them, not least configuration information from Python into Clojure. In Python, we organise our manifest constants without polluting the top-level namespace by declaring things like this:</p>
 
 <noscript><pre>400: Invalid request</pre></noscript>
 <script src="https://gist.github.com/1831280.js"> </script>
 
-<p>This lets us use names like <code>m_Configuration.TREE_DEPTH</code> (value <code>5</code>) or (if we use our rather implausible test declaration) <code>m_Nested.A.C</code> (<code>"Hello"</code>). The Python for <code>Manifest</code> is pretty simple:</p>
+<p>This lets us use names like <code class="language-plaintext highlighter-rouge">m_Configuration.TREE_DEPTH</code> (value <code class="language-plaintext highlighter-rouge">5</code>) or (if we use our rather implausible test declaration) <code class="language-plaintext highlighter-rouge">m_Nested.A.C</code> (<code class="language-plaintext highlighter-rouge">"Hello"</code>). The Python for <code class="language-plaintext highlighter-rouge">Manifest</code> is pretty simple:</p>
 
 <noscript><pre>400: Invalid request</pre></noscript>
 <script src="https://gist.github.com/1863409.js"> </script>
 
-<p>So what of the Clojure world? Passing a <code>Manifest</code> into Clojure exposes an object constructed from numerous Jython components, whereas what we really want is Clojure hash maps with keywords, so that we can write things like <code>(:TREE_DEPTH m_Configuration)</code> or <code>(:C (:A m_Nested))</code>. So, here’s an implementation of something we call <code>hashify</code>:</p>
+<p>So what of the Clojure world? Passing a <code class="language-plaintext highlighter-rouge">Manifest</code> into Clojure exposes an object constructed from numerous Jython components, whereas what we really want is Clojure hash maps with keywords, so that we can write things like <code class="language-plaintext highlighter-rouge">(:TREE_DEPTH m_Configuration)</code> or <code class="language-plaintext highlighter-rouge">(:C (:A m_Nested))</code>. So, here’s an implementation of something we call <code class="language-plaintext highlighter-rouge">hashify</code>:</p>
 
 <noscript><pre>400: Invalid request</pre></noscript>
 <script src="https://gist.github.com/1863525.js"> </script>
@@ -764,14 +767,14 @@
 <noscript><pre>400: Invalid request</pre></noscript>
 <script src="https://gist.github.com/1863592.js"> </script>
 
-<p>The big win here is the ability to map-bind the entries of a manifest in one go. Using the <code>:keys</code> form here binds the names directly, at the cost of a pile of ugly upper-case identifiers in the middle of the code - but there’s no reason why we couldn’t modify <code>hashify</code> to downcase everything.</p>
+<p>The big win here is the ability to map-bind the entries of a manifest in one go. Using the <code class="language-plaintext highlighter-rouge">:keys</code> form here binds the names directly, at the cost of a pile of ugly upper-case identifiers in the middle of the code - but there’s no reason why we couldn’t modify <code class="language-plaintext highlighter-rouge">hashify</code> to downcase everything.</p>
 
-<p>The final push: it makes sense to pass composite data objects from Clojure back to Python in the same form (rather straining the original intent of “manifest”), but how do we turn Clojure’s persistent hash maps back into manifest objects? It would be great if we could overload the <code>Manifest</code> constructor to take a hash map; since we can’t, this is the closest I managed to get: an optional non-keyword argument which can be a hash map. <code>Manifest</code> now looks like this:</p>
+<p>The final push: it makes sense to pass composite data objects from Clojure back to Python in the same form (rather straining the original intent of “manifest”), but how do we turn Clojure’s persistent hash maps back into manifest objects? It would be great if we could overload the <code class="language-plaintext highlighter-rouge">Manifest</code> constructor to take a hash map; since we can’t, this is the closest I managed to get: an optional non-keyword argument which can be a hash map. <code class="language-plaintext highlighter-rouge">Manifest</code> now looks like this:</p>
 
 <noscript><pre>400: Invalid request</pre></noscript>
 <script src="https://gist.github.com/1864710.js"> </script>
 
-<p>This is effectively “<code>unhashify</code>” on the Python side (and again it’s recursive to handle nested structures). The instance check for <code>Map</code> gets us hash maps; the instance check for <code>List</code> gets us Clojure lists, vectors and sequences. The only real Clojure-dependent part of this is the <code>.getName()</code> call on the keywords to turn them back into strings. (Again, we’d probably want to upcase these to be typographically correct.)</p>
+<p>This is effectively “<code class="language-plaintext highlighter-rouge">unhashify</code>” on the Python side (and again it’s recursive to handle nested structures). The instance check for <code class="language-plaintext highlighter-rouge">Map</code> gets us hash maps; the instance check for <code class="language-plaintext highlighter-rouge">List</code> gets us Clojure lists, vectors and sequences. The only real Clojure-dependent part of this is the <code class="language-plaintext highlighter-rouge">.getName()</code> call on the keywords to turn them back into strings. (Again, we’d probably want to upcase these to be typographically correct.)</p>
 
 
 
@@ -1749,6 +1752,14 @@
       <li><a href="/tag/lcrn">
         
         LCRN
+        </a>
+        <span class="faint">1<span>
+      </li>
+    
+      
+      <li><a href="/tag/klaus-schulze">
+        
+        Klaus Schulze
         </a>
         <span class="faint">1<span>
       </li>
