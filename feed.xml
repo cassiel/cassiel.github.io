@@ -5,9 +5,22 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Jun 2022 17:51:17 +0100</pubDate>
-    <lastBuildDate>Fri, 10 Jun 2022 17:51:17 +0100</lastBuildDate>
+    <pubDate>Sat, 09 Jul 2022 22:20:22 +0100</pubDate>
+    <lastBuildDate>Sat, 09 Jul 2022 22:20:22 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Choregraphic Coding Lab 14</title>
+        <description>&lt;p&gt;We’ve just wrapped from facilitating at the 14th &lt;a href=&quot;https://choreographiccoding.org&quot;&gt;Choreographic Coding Lab&lt;/a&gt; at &lt;a href=&quot;https://www.aoiesteban.com/aecreativehub/about&quot;&gt;A+E Lab&lt;/a&gt; in Chatham. This is the first CCL to be hosted in the UK, and marks 8 years since we attended CCL in Berlin. Over the last eight years, machine learning and game engines have definitely become a thing. However, I did find myself revisiting Clojure &lt;a href=&quot;https://github.com/clojure/core.logic&quot;&gt;core.logic&lt;/a&gt;, which I last explored in 2014. There is definitely more pntential in “old school” AI techniques like logic programming and theorem proving, as currently being explored by &lt;a href=&quot;https://www.georgicapettus.com/&quot;&gt;Georgica Pettus&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jul 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/07/09/ccl-14/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/07/09/ccl-14/</guid>
+        
+        <category>ccl</category>
+        
+        
+      </item>
     
       <item>
         <title>Darwin Grosse 1959-2022</title>
@@ -29,7 +42,7 @@
 &lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/track=3898512507/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://cassiel.bandcamp.com/track/listen-move-timeline-1&quot;&gt;Listen/Move: Timeline 1 by cassiel&lt;/a&gt;
 &lt;/iframe&gt;
 
-&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/track=3705393383/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://cassiel.bandcamp.com/track/listen-move-timeline-1&quot;&gt;Listen/Move: Timeline 1 by cassiel&lt;/a&gt;
+&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/track=3705393383/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://cassiel.bandcamp.com/track/listen-move-timeline-1&quot;&gt;Listen/Move: Timeline 2 by cassiel&lt;/a&gt;
 &lt;/iframe&gt;
 
 </description>
@@ -253,33 +266,6 @@
         <category>roli</category>
         
         <category>article</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>TooMortal, London / Finland</title>
-        <description>&lt;p&gt;TooMortal is on the road again, showing in London (at one of the original 2012 venues) in September, and in Finland in October, as part of the Kuopio Dance Festival.&lt;/p&gt;
-
-&lt;p&gt;Dates:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;24th–25th September: St. Pancras Church. Tickets &lt;a href=&quot;https://www.eventbrite.co.uk/o/shobana-jeyasingh-dance-13579829017&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;13th October - Pyhän Ristin Church, Iisalmi.&lt;/li&gt;
-  &lt;li&gt;15th–16th October - Männistö Catholic Church, Kuopio. Information and tickets &lt;a href=&quot;https://www.kuopiodancefestival.fi/shobana-jeyasingh-dance-96802&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 05 Sep 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/09/05/toomortal/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/05/toomortal/</guid>
-        
-        <category>shobana-jeyasingh</category>
-        
-        <category>toomortal</category>
-        
-        <category>james-macmillan</category>
-        
-        <category>tenebrae-responsories</category>
         
         
       </item>
