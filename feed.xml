@@ -5,9 +5,27 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Nov 2022 18:28:41 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Nov 2022 18:28:41 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Dec 2022 12:24:33 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Dec 2022 12:24:33 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Dotdotdot Dance: Blue Ghost</title>
+        <description>&lt;p&gt;After a two-year hiatus in development, all systems are go for Blue
+Ghost, premiering in February 2023. Please see the &lt;a href=&quot;/project/blue-ghost&quot;&gt;project page&lt;/a&gt; for dates and details.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/12/17/blue-ghost/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/12/17/blue-ghost/</guid>
+        
+        <category>blue-ghost</category>
+        
+        <category>dotdotdot</category>
+        
+        <category>dance</category>
+        
+        
+      </item>
     
       <item>
         <title>Choregraphic Coding Lab 14</title>
@@ -247,23 +265,6 @@
         <category>bitwig</category>
         
         <category>review</category>
-        
-        <category>article</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>ROLI Equator2 Review</title>
-        <description>&lt;p&gt;My review of &lt;a href=&quot;https://roli.com/products/software/equator2/overview&quot;&gt;ROLI Equator2&lt;/a&gt; is out in the &lt;a href=&quot;https://www.soundonsound.com/reviews/roli-equator2&quot;&gt;October 2021 Sound On Sound&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Oct 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/10/19/roli-equator2/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/10/19/roli-equator2/</guid>
-        
-        <category>sound-on-sound</category>
-        
-        <category>roli</category>
         
         <category>article</category>
         
