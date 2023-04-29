@@ -5,9 +5,45 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 17 Dec 2022 12:24:33 +0000</pubDate>
-    <lastBuildDate>Sat, 17 Dec 2022 12:24:33 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Apr 2023 12:54:04 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Apr 2023 12:54:04 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>ROLI Seaboard RISE 2</title>
+        <description>&lt;p&gt;Review: &lt;a href=&quot;https://roli.com/products/seaboard/rise2&quot;&gt;ROLI Seaboard RISE 2&lt;/a&gt; in &lt;a href=&quot;https://www.soundonsound.com/reviews/roli-seaboard-rise-2&quot;&gt;Sound On Sound&lt;/a&gt;, May 2023.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Apr 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2023/04/29/roli-seaboard-rise-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/04/29/roli-seaboard-rise-2/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>roli</category>
+        
+        <category>review</category>
+        
+        <category>article</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Blue Ghost Review</title>
+        <description>&lt;p&gt;First review: &lt;a href=&quot;https://oxforddancewriters.wordpress.com/2023/03/27/dotdotdot-dance-blue-ghost-cornerstone-didcot-24th-march-maggie-watson-reviews/&quot;&gt;Oxford Dance Writers&lt;/a&gt;. I’m good with “sensational soundscape”.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2023/03/26/blue-ghost-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/03/26/blue-ghost-review/</guid>
+        
+        <category>blue-ghost</category>
+        
+        <category>dotdotdot</category>
+        
+        <category>dance</category>
+        
+        
+      </item>
     
       <item>
         <title>Dotdotdot Dance: Blue Ghost</title>
@@ -215,58 +251,6 @@ Ghost, premiering in February 2023. Please see the &lt;a href=&quot;/project/blu
         <category>dance</category>
         
         <category>ava-dance</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Donate Yourself</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Donate Yourself is a new work – an Augmented Reality experience created by artist Stacey Pitsillides with body&amp;gt;data&amp;gt;space. It blends sound and 3D visuals to spark debates about our organs, tissue and body data, accessed by the public through augmented reality via QR codes.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Find out more about the project and how to access the AR experiences &lt;a href=&quot;https://www.onecellatatime.org/exhibits/donate-yourself/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Donate Yourself by &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/stacey/&quot;&gt;Stacey Pitsillides&lt;/a&gt; with &lt;a href=&quot;http://www.bodydataspace.net/&quot;&gt;body&amp;gt;data&amp;gt;space&lt;/a&gt; (2021). A One Cell at a Time commission with the Human Cell Atlas research initiative:&lt;/p&gt;
-
-&lt;p&gt;Designed and creatively directed by Stacey Pitsillides in collaboration with the interaction design collective body&amp;gt;data&amp;gt;space.&lt;/p&gt;
-
-&lt;p&gt;The digital AR experience has been co-created with the body&amp;gt;data&amp;gt;space team using the b&amp;gt;d&amp;gt;s AR development project: &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/core-team/ghislaine/&quot;&gt;Ghislaine Boddington&lt;/a&gt; (Creative Co-Direction), &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/core-team/tadej/&quot;&gt;Tadej Vindis&lt;/a&gt; (Project Development and Production), &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/core-team/nick/&quot;&gt;Nick Rothwell&lt;/a&gt; (Sound Design and Technical Development) and &lt;a href=&quot;http://www.bodydataspace.net/who-we-are/associate/ivor/&quot;&gt;Ivor Diosi&lt;/a&gt; (AR Development and 3D Animation). With research and insights from Holly Standing and Luke Sellers. Donate Yourself is produced for One Cell at a Time by Dominic Smith.&lt;/p&gt;
-
-&lt;p&gt;Donate Yourself is created as part of the &lt;a href=&quot;http://www.bodydataspace.net/2020/12/research-development-project-launch-datum/&quot;&gt;AR gifting development project&lt;/a&gt; at body&amp;gt;data&amp;gt;space, supported by Innovate UK and the University of Greenwich (2021-22).&lt;/p&gt;
-
-&lt;p&gt;One Cell at a Time is a programme of public, creative engagement activities, commissions and talks, inspired by the Human Cell Atlas, bringing together arts and communities, patients and researchers. Funded by Wellcome and led by the Wellcome Sanger Institute, One Cell at a Time aims to deepen public understanding of the revolutionary impact it will have on our understanding of the human body.&lt;/p&gt;
-
-&lt;p&gt;Special thanks to XR.+ by The Lucid Dreams Company, and TL Multimedia Ltd.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/11/07/donate-yourself/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/11/07/donate-yourself/</guid>
-        
-        <category>body-data-space</category>
-        
-        <category>wellcome</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Bitwig Studio 4 Review</title>
-        <description>&lt;p&gt;Review: &lt;a href=&quot;https://www.bitwig.com/overview/&quot;&gt;Bitwig Studio 4&lt;/a&gt; in &lt;a href=&quot;https://www.soundonsound.com/reviews/bitwig-studio-4&quot;&gt;Sound On Sound&lt;/a&gt;, November 2021.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/11/06/bitwig-studio-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/11/06/bitwig-studio-4/</guid>
-        
-        <category>sound-on-sound</category>
-        
-        <category>bitwig</category>
-        
-        <category>review</category>
-        
-        <category>article</category>
         
         
       </item>
