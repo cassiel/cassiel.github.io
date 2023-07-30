@@ -5,9 +5,51 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 29 Apr 2023 12:54:04 +0100</pubDate>
-    <lastBuildDate>Sat, 29 Apr 2023 12:54:04 +0100</lastBuildDate>
+    <pubDate>Sun, 30 Jul 2023 15:35:20 +0100</pubDate>
+    <lastBuildDate>Sun, 30 Jul 2023 15:35:20 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Counterpoint 2023</title>
+        <description>&lt;p&gt;The hugely successful piece &lt;a href=&quot;http://www.shobanajeyasingh.co.uk/works/counterpoint/&quot;&gt;Counterpoint&lt;/a&gt;, for which we composed the soundtrack, is being restaged at Somerset House this August.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;19th August (at 11am, 12pm, 3pm, 4pm)&lt;/li&gt;
+  &lt;li&gt;20th August (at 3pm, 4pm, 6pm, 7pm)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
+    &lt;div class=&quot;block-image&quot;&gt;
+      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
+      
+
+      
+        &lt;div class=&quot;image-area&quot;&gt;
+          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+          &lt;a href=&quot;
+          /img/2023/07/body/Counterpoint-3_w-567x756.jpg
+        &quot; data-lightbox=&quot;_&quot; data-title=&quot;&quot;&gt;
+            &lt;img src=&quot;
+          /img/2023/07/body/Counterpoint-3_w-567x756.jpg
+        &quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 30 Jul 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2023/07/30/counterpoint-restaged/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/07/30/counterpoint-restaged/</guid>
+        
+        <category>shobana-jeyasingh</category>
+        
+        <category>counterpoint</category>
+        
+        
+      </item>
     
       <item>
         <title>ROLI Seaboard RISE 2</title>
@@ -232,25 +274,6 @@ Ghost, premiering in February 2023. Please see the &lt;a href=&quot;/project/blu
         <category>listen-move</category>
         
         <category>ubertracks</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let Them Eat Cake!</title>
-        <description>&lt;p&gt;Let Them Eat Cake! is a dance film on girl empowerment, where three teenagers rebel against how society dictates how they see themselves.&lt;/p&gt;
-
-&lt;p&gt;It will be directed by the choreographer and filmmaker Avatâra Ayuso, whose latest film &lt;a href=&quot;/2020/12/18/the-protocol/&quot;&gt;The Protocol&lt;/a&gt; has received awards all around the world.&lt;/p&gt;
-
-&lt;p&gt;Please &lt;a href=&quot;https://www.crowdfunder.co.uk/let-them-eat-cake-dance-film-on-girl-empowerment&quot;&gt;support a good cause&lt;/a&gt;!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/11/21/let-them-eat-cake/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/11/21/let-them-eat-cake/</guid>
-        
-        <category>dance</category>
-        
-        <category>ava-dance</category>
         
         
       </item>
