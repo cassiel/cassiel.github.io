@@ -5,9 +5,30 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 30 Jul 2023 15:35:20 +0100</pubDate>
-    <lastBuildDate>Sun, 30 Jul 2023 15:35:20 +0100</lastBuildDate>
+    <pubDate>Sat, 05 Aug 2023 16:05:21 +0100</pubDate>
+    <lastBuildDate>Sat, 05 Aug 2023 16:05:21 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Minute Cubes on Bandcamp</title>
+        <description>&lt;p&gt;We are putting the &lt;a href=&quot;/project/minute-cubes/&quot;&gt;Minute Cubes&lt;/a&gt; up on Bandcamp, to fill out the catalogue a bit. We want to stick with the “übertrack” concept of 30-minute releases - &lt;a href=&quot;/2022/01/21/listen-move-bandcamp/&quot;&gt;Listen/Move&lt;/a&gt; easily falls into that camp - which is why we’re splitting the Minute Cube releases into two volumes, but this is a formal album release of 30 one-minute tracks (which can even be individually purchased). Single long-form tracks are still the plan for the future, although it might make sense to convert everything into albums, even those that are single-track.&lt;/p&gt;
+
+&lt;p&gt;I will skip over the boring details of using &lt;a href=&quot;https://www.gimp.org/&quot;&gt;GIMP&lt;/a&gt;, &lt;a href=&quot;https://imagemagick.org/index.php&quot;&gt;ImageMagick&lt;/a&gt; and &lt;a href=&quot;https://babashka.org/&quot;&gt;Babashka&lt;/a&gt; for the image manipulation and scripting support to generate the album cover.&lt;/p&gt;
+
+&lt;p&gt;Minute Cubes Vol. 1 is available &lt;a href=&quot;https://cassiel.bandcamp.com/album/minute-cubes-vol-1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Aug 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2023/08/05/minute-cubes-bandcamp/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/05/minute-cubes-bandcamp/</guid>
+        
+        <category>bandcamp</category>
+        
+        <category>minute-cubes</category>
+        
+        <category>ubertracks</category>
+        
+        
+      </item>
     
       <item>
         <title>Counterpoint 2023</title>
@@ -226,54 +247,6 @@ Ghost, premiering in February 2023. Please see the &lt;a href=&quot;/project/blu
         <category>review</category>
         
         <category>article</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Listen/Move on Bandcamp</title>
-        <description>&lt;p&gt;It’s been a long time coming, but we finally have Listen/Move on Bandcamp. It’s divided into its two timelines, which was always the original intended structure, loosely envisaged as “journey” and “destination”.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cassiel.bandcamp.com/track/listen-move-timeline-1&quot;&gt;Timeline 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cassiel.bandcamp.com/track/listen-move-timeline-2&quot;&gt;Timeline 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The artwork for the timelines is scanned from the two CD pressing runs, the first for &lt;a href=&quot;https://www.theplace.org.uk/&quot;&gt;The Place&lt;/a&gt; Dance Theatre in London, the second for general release.&lt;/p&gt;
-
-&lt;p&gt;Longer term, the plan is to release a series of 30-minute-or-so “übertracks” as a follow-on from the &lt;a href=&quot;/project/minute-cubes/&quot;&gt;Minute Cubes&lt;/a&gt;. Listen/Move is the launch vehicle for those.&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
-    &lt;div class=&quot;block-image&quot;&gt;
-      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
-      
-
-      
-        &lt;div class=&quot;image-area&quot;&gt;
-          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
-          &lt;a href=&quot;
-          /img/2022/01/body/lm-1-bandcamp.jpg
-        &quot; data-lightbox=&quot;_&quot; data-title=&quot;Edition 1 with Jane Howie&quot;&gt;
-            &lt;img src=&quot;
-          /img/2022/01/body/lm-1-bandcamp.jpg
-        &quot; alt=&quot;Edition 1 with Jane Howie&quot; /&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022/01/21/listen-move-bandcamp/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/21/listen-move-bandcamp/</guid>
-        
-        <category>bandcamp</category>
-        
-        <category>listen-move</category>
-        
-        <category>ubertracks</category>
         
         
       </item>
