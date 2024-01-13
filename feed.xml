@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Nov 2023 16:25:23 +0000</pubDate>
-    <lastBuildDate>Sat, 25 Nov 2023 16:25:23 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2024 17:14:37 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2024 17:14:37 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Sound On Sound Podcast: Roland Lamb</title>
+        <description>&lt;p&gt;Our first, and hopefully not last, podcast for &lt;a href=&quot;https://www.soundonsound.com/&quot;&gt;Sound On Sound&lt;/a&gt;: an interview with &lt;a href=&quot;https://www.linkedin.com/in/roland-lamb-99345211/&quot;&gt;Roland Lamb&lt;/a&gt;, founder of &lt;a href=&quot;https://roli.com&quot;&gt;ROLI&lt;/a&gt;, talking about the Seaboard, LUMI, MIDI, sound synthesis and more.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2024/01/13/roland-lamb/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/01/13/roland-lamb/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>roli</category>
+        
+        <category>podcast</category>
+        
+        
+      </item>
     
       <item>
         <title>Reviews: CMPSR, K-Board-C, QuNexus RED</title>
@@ -204,35 +221,6 @@ Ghost, premiering in February 2023. Please see the &lt;a href=&quot;/project/blu
         <category>darwin-grosse</category>
         
         <category>cycling-74</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Vangelis 1943-2022</title>
-        <description>&lt;p&gt;To describe Vangelis as “unique” is an incredible understatement. He came to prominence (in the UK at least) at a time when the electronic music scene was dominated by French and German musicians, with a genre and aesthetic largely in common. Vangelis swept in from Greece with a style that was symphonic, pastoral, jazzy, and above all expressive. With acoustic orchestral percussion featuring prominently, his work never struck me as wholly “electronic”, and from an EM point of view his timbral palette tended to be limited. But within those limits, his material was immensely musical, heartfelt and, in places, joyously bombastic.&lt;/p&gt;
-
-&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/album/6Tz3gRyPvHv8eDT5RZ2xXX?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;I feel his strongest work is from the “RCA Years”: Heaven and Hell, Albedo 0.39, Spiral. The mixes are a little rough, but full of energy, and show off the Yamaha CS-80 to full effect. The more experimental Beaubourg should be included as well, and I happen to love it, whether or not it was quickly improvised to a tight deadline. For a bit more polish, try China (which, for audiophiles, was issued by Polydor who pressed on better vinyl than RCA).&lt;/p&gt;
-
-&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/album/3UNXsFe9kpKxRaKE1hG7TD?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;My favourite Vangelis works actually lie a little out of the main catalogue. Unlike, oh, let’s say Tangerine Dream, his film soundtracks were pretty uniformly excellent. I adore Le Singe Bleu from Apocalypse des Animaux, as well as most of Opera Sauvage and the first half of Ignacio. Blade Runner is an excellent, moody mix of music and sound design, inseparable from the movie. Some works (The Bounty, 1492: Conquest of Paradise) I find a little weaker, since they seem to veer a little into standard Hollywood structures and arrangements. And I’ll place myself in an absolute minority here by saying that I’m not over-fond of Chariots of Fire: I find it slightly anodyne.&lt;/p&gt;
-
-&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/album/500swsVDu1EWuGohjXvago?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Around the mid-1980s Vangelis seemed to abandon the analogue instruments that gave him such expressive freedom and shifted into a more preset world, with sampled guitar and strings. Soil Festivities is perhaps the last of the great works, coming out during that transition (and maybe I’d add Mask as well). There’s still compositional flair and skill in The City and Direct, but by the time we get to Mythodea and El Greco, things seem a little flat.&lt;/p&gt;
-
-&lt;p&gt;It’s very possible that I’m being over-critical, or am inordinately attached to a particular early part of his career; I have El Greco playing right now and it’s a finely crafted piece, but compared to the creative madness of tracks like Pulstar, The Dragon, See You Later and Needles &amp;amp; Bones, the later works feel weak.&lt;/p&gt;
-
-&lt;p&gt;Nevertheless, as such a musical force of nature (and even if only a fraction of &lt;a href=&quot;https://www.soundonsound.com/news/vangelis-1943-2022-obituary&quot;&gt;Paul Wiffen’s Sound On Sound obituary&lt;/a&gt; is true), Vangelis will be sorely missed.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 May 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/05/28/vangelis-1943-2022/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/05/28/vangelis-1943-2022/</guid>
-        
-        <category>vangelis</category>
         
         
       </item>
