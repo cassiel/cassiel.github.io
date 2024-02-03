@@ -5,9 +5,28 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 13 Jan 2024 17:31:51 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Jan 2024 17:31:51 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Feb 2024 16:58:45 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Feb 2024 16:58:45 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Ableton Live 12 Review</title>
+        <description>&lt;p&gt;My review of &lt;a href=&quot;https://www.ableton.com/en/live/&quot;&gt;Ableton Live 12&lt;/a&gt; is out in the &lt;a href=&quot;https://www.soundonsound.com/reviews/ableton-live-12&quot;&gt;February 2024 Sound On Sound&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2024/02/03/live-12/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/02/03/live-12/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>ableton</category>
+        
+        <category>review</category>
+        
+        <category>article</category>
+        
+        
+      </item>
     
       <item>
         <title>Sound On Sound Podcast: Roland Lamb</title>
@@ -186,41 +205,6 @@ Ghost, premiering in February 2023. Please see the &lt;a href=&quot;/project/blu
         <guid isPermaLink="true">http://localhost:4000/2022/07/09/ccl-14/</guid>
         
         <category>ccl</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Darwin Grosse 1959-2022</title>
-        <description>&lt;p&gt;I am greatly saddened by the death of Darwin Grosse. He and I had been friends for the best part of three decades; he mastered my first album &lt;a href=&quot;/2022/01/21/listen-move-bandcamp/&quot;&gt;Listen/Move&lt;/a&gt; back in 1996 or so, engaged me as a freelancer working for &lt;a href=&quot;https://cycling74.com/&quot;&gt;Cycling ‘74&lt;/a&gt; a couple of times, and he was responsible for landing me what I usually refer to as the “gig from hell” in Hollywood around 2004. Darwin oversaw that project (or at least, the involvement of myself and a small development team) and kept things on the road through numerous obstacles.&lt;/p&gt;
-
-&lt;p&gt;Darwin has been an immensely supportive and positive figure in the experimental electronic music scene for many years, through his work for Cycling ‘74, his &lt;a href=&quot;https://artmusictech.libsyn.com/&quot;&gt;Art + Music + Technology podcast&lt;/a&gt; dating from 2013 (he and I spoke way back in &lt;a href=&quot;https://artmusictech.libsyn.com/podcast-009-nick-rothwell&quot;&gt;Episode 009&lt;/a&gt;), and through articles, interviews, tutorials, meet-ups and conversations too numerous to mention. He will be sorely missed.&lt;/p&gt;
-
-&lt;p&gt;A couple of good obituaries:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.synthtopia.com/content/2022/06/06/composer-developer-podcaster-darwin-grosse-has-died/&quot;&gt;Synthtopia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdm.link/2022/06/darwin-grosse-musical-visionary-and-voice-for-max-and-diy-learning-has-passed-away/&quot;&gt;CDM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;charity-donation&quot;&gt;Charity Donation&lt;/h3&gt;
-
-&lt;p&gt;After discussion with Darwin’s family I’ve decided to donate all proceeds from sales of Listen/Move, in perpetuity, to cancer charities (&lt;a href=&quot;https://www.cancerresearchuk.org/&quot;&gt;Cancer Research UK&lt;/a&gt; and &lt;a href=&quot;https://www.macmillan.org.uk/&quot;&gt;Macmillan Cancer Support&lt;/a&gt;). The two timeline tracks from Listen/Move are available here:&lt;/p&gt;
-
-&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/track=3898512507/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://cassiel.bandcamp.com/track/listen-move-timeline-1&quot;&gt;Listen/Move: Timeline 1 by cassiel&lt;/a&gt;
-&lt;/iframe&gt;
-
-&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/track=3705393383/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://cassiel.bandcamp.com/track/listen-move-timeline-1&quot;&gt;Listen/Move: Timeline 2 by cassiel&lt;/a&gt;
-&lt;/iframe&gt;
-
-</description>
-        <pubDate>Fri, 10 Jun 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/06/10/darwin-grosse-1959-2022/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/06/10/darwin-grosse-1959-2022/</guid>
-        
-        <category>darwin-grosse</category>
-        
-        <category>cycling-74</category>
         
         
       </item>
