@@ -5,9 +5,28 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 03 Feb 2024 16:58:45 +0000</pubDate>
-    <lastBuildDate>Sat, 03 Feb 2024 16:58:45 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Mar 2024 20:21:30 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Mar 2024 20:21:30 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Bitwig Studio 5.1 Review</title>
+        <description>&lt;p&gt;Review: &lt;a href=&quot;https://www.bitwig.com/overview/&quot;&gt;Bitwig Studio 5.1&lt;/a&gt; in &lt;a href=&quot;https://www.soundonsound.com/reviews/bitwig-studio-5-1&quot;&gt;Sound On Sound&lt;/a&gt;, April 2024.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2024/03/21/bitwig-studio-5-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/21/bitwig-studio-5-1/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>bitwig</category>
+        
+        <category>review</category>
+        
+        <category>article</category>
+        
+        
+      </item>
     
       <item>
         <title>Ableton Live 12 Review</title>
@@ -192,19 +211,6 @@ Ghost, premiering in February 2023. Please see the &lt;a href=&quot;/project/blu
         <category>dotdotdot</category>
         
         <category>dance</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Choregraphic Coding Lab 14</title>
-        <description>&lt;p&gt;We’ve just wrapped from facilitating at the 14th &lt;a href=&quot;https://choreographiccoding.org&quot;&gt;Choreographic Coding Lab&lt;/a&gt; at &lt;a href=&quot;https://www.aoiesteban.com/aecreativehub/about&quot;&gt;A+E Lab&lt;/a&gt; in Chatham. This is the first CCL to be hosted in the UK, and marks 8 years since we attended CCL in Berlin. Over the last eight years, machine learning and game engines have definitely become a thing. However, I did find myself revisiting Clojure &lt;a href=&quot;https://github.com/clojure/core.logic&quot;&gt;core.logic&lt;/a&gt;, which I last explored in 2014. There is definitely more pntential in “old school” AI techniques like logic programming and theorem proving, as currently being explored by &lt;a href=&quot;https://www.georgicapettus.com/&quot;&gt;Georgica Pettus&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Jul 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/07/09/ccl-14/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/07/09/ccl-14/</guid>
-        
-        <category>ccl</category>
         
         
       </item>
