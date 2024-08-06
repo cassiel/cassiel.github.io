@@ -5,9 +5,35 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 04 May 2024 19:58:56 +0100</pubDate>
-    <lastBuildDate>Sat, 04 May 2024 19:58:56 +0100</lastBuildDate>
+    <pubDate>Tue, 06 Aug 2024 12:05:23 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Aug 2024 12:05:23 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Algoevent London</title>
+        <description>&lt;p&gt;Second gig of the summer: we seem to be calling ourselves The Printer Jam: team-up with &lt;a href=&quot;https://pixelist.info/&quot;&gt;BITPRINT&lt;/a&gt;, again
+using a version of the hybrid live coding/VST environment developed for &lt;a href=&quot;https://khyalgeometries.com/&quot;&gt;Khyal Geometries&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Venue: &lt;a href=&quot;https://www.limehousetownhall.co.uk/&quot;&gt;Limehouse Town Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Details and tickets &lt;a href=&quot;https://opencollective.com/live-code-london/events/algoevent-aug-31-2024-eed37f91&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Aug 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024/08/06/algoevent/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/08/06/algoevent/</guid>
+        
+        <category>clojure</category>
+        
+        <category>live-3d-printing</category>
+        
+        <category>live-coding</category>
+        
+        <category>maxmsp</category>
+        
+        <category>gig</category>
+        
+        
+      </item>
     
       <item>
         <title>Live Code London</title>
@@ -199,23 +225,6 @@
         <category>review</category>
         
         <category>article</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Blue Ghost Review</title>
-        <description>&lt;p&gt;First review: &lt;a href=&quot;https://oxforddancewriters.wordpress.com/2023/03/27/dotdotdot-dance-blue-ghost-cornerstone-didcot-24th-march-maggie-watson-reviews/&quot;&gt;Oxford Dance Writers&lt;/a&gt;. I’m good with “sensational soundscape”.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2023/03/26/blue-ghost-review/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/03/26/blue-ghost-review/</guid>
-        
-        <category>blue-ghost</category>
-        
-        <category>dotdotdot</category>
-        
-        <category>dance</category>
         
         
       </item>
