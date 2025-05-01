@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 02 Feb 2025 18:18:37 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Feb 2025 18:18:37 +0000</lastBuildDate>
+    <pubDate>Thu, 01 May 2025 20:48:50 +0100</pubDate>
+    <lastBuildDate>Thu, 01 May 2025 20:48:50 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Cycling &apos;74 Max 9</title>
+        <description>&lt;p&gt;Five and a bit years after the previous one: &lt;a href=&quot;https://www.soundonsound.com/reviews/cycling-74-max-9&quot;&gt;Cycling ‘74 Max 9&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2025/03/21/max9/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/03/21/max9/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>review</category>
+        
+        <category>maxmsp</category>
+        
+        
+      </item>
     
       <item>
         <title>AlgoRhythms</title>
@@ -178,23 +195,6 @@ using a version of the hybrid live coding/VST environment developed for &lt;a hr
         <category>review</category>
         
         <category>article</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Blue Ghost in Seville</title>
-        <description>&lt;p&gt;A first non-UK date for Blue Ghost, albeit with recorded music only: &lt;a href=&quot;https://fundiciondesevilla.es/blue-ghost/&quot;&gt;La Fundición Teatro Sevilla&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 26 Oct 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2023/10/26/blue-ghost-seville/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/10/26/blue-ghost-seville/</guid>
-        
-        <category>blue-ghost</category>
-        
-        <category>dotdotdot</category>
-        
-        <category>dance</category>
         
         
       </item>
