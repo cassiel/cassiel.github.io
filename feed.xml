@@ -5,16 +5,34 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 29 May 2025 13:43:41 +0200</pubDate>
-    <lastBuildDate>Thu, 29 May 2025 13:43:41 +0200</lastBuildDate>
+    <pubDate>Thu, 05 Jun 2025 20:48:49 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Jun 2025 20:48:49 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>The Printer Jam, June Gig</title>
+        <description>&lt;p&gt;Another month, another gig: &lt;a href=&quot;https://www.jaguarshoes.com/venues/the-victoria/&quot;&gt;The Victoria&lt;/a&gt;, Dalston.
+Tickets &lt;a href=&quot;https://dice.fm/event/8eppn5-sonic-electronics-london-farewell-party-15th-jun-the-victoria-london-tickets&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jun 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/06/05/sonic-electronics/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/06/05/sonic-electronics/</guid>
+        
+        <category>clojure</category>
+        
+        <category>maxmsp</category>
+        
+        <category>the-printer-jam</category>
+        
+        
+      </item>
     
       <item>
         <title>The Printer Jam at ICLC</title>
         <description>&lt;p&gt;An international outing for The Printer Jam: we play &lt;a href=&quot;https://iclc.toplap.org/2025/&quot;&gt;ICLC&lt;/a&gt; at
 &lt;a href=&quot;https://www.uoc.edu/en&quot;&gt;Universitat Oberta de Catalunya&lt;/a&gt; on the 30th.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 May 2025 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 29 May 2025 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2025/05/29/printer-jam-iclc/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/05/29/printer-jam-iclc/</guid>
         
@@ -33,7 +51,7 @@
         <title>Sound On Sound Podcast: The Guthman Competition</title>
         <description>&lt;p&gt;Another podcast episode: &lt;a href=&quot;https://www.soundonsound.com/people/guthman-competition-winners-2025-sos-podcast&quot;&gt;The Guthman Competition&lt;/a&gt; with &lt;a href=&quot;https://www.linkedin.com/in/jeff-albert-295234186/&quot;&gt;Jeff Albert&lt;/a&gt; (Associate Professor &amp;amp; Interim Chair, School of Music, Georgia Institute of Technology) and &lt;a href=&quot;https://www.linkedin.com/in/mccabepaulj/&quot;&gt;Paul McCabe&lt;/a&gt; (Senior Vice President of Research and Innovation, Roland Future Design Lab).&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 May 2025 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 29 May 2025 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2025/05/29/guthman-competition/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/05/29/guthman-competition/</guid>
         
@@ -55,7 +73,7 @@
   &lt;li&gt;July 11th: &lt;a href=&quot;https://www.dorchesterarts.org.uk/&quot;&gt;Dorchester Arts&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 29 May 2025 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 29 May 2025 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2025/05/29/blue-ghost-2025/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/05/29/blue-ghost-2025/</guid>
         
@@ -74,7 +92,7 @@
 &lt;a href=&quot;/project/the-printer-jam&quot;&gt;The Printer Jam&lt;/a&gt;,
 alongside numerous other acts. &lt;a href=&quot;https://folklorehoxton.co.uk/&quot;&gt;Folklore&lt;/a&gt;, Hoxton.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 04 May 2025 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 04 May 2025 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2025/05/04/folklore/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/05/04/folklore/</guid>
         
@@ -90,10 +108,10 @@ alongside numerous other acts. &lt;a href=&quot;https://folklorehoxton.co.uk/&qu
       </item>
     
       <item>
-        <title>Cycling &apos;74 Max 9</title>
+        <title>Cycling '74 Max 9</title>
         <description>&lt;p&gt;Five and a bit years after the previous one: &lt;a href=&quot;https://www.soundonsound.com/reviews/cycling-74-max-9&quot;&gt;Cycling ‘74 Max 9&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 21 Mar 2025 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2025/03/21/max9/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/03/21/max9/</guid>
         
@@ -110,7 +128,7 @@ alongside numerous other acts. &lt;a href=&quot;https://folklorehoxton.co.uk/&qu
         <title>AlgoRhythms</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://ra.co/events/2076350&quot;&gt;First gig of 2025&lt;/a&gt;. The previous few gigs were controller-based (Bitwig Studio, Max control code, monome arc, MIDI Fighter) but in the context of a live coding event the controllers and DAW are out, and we’re back with an updated version of the Clojure-and-Max system first built for &lt;a href=&quot;/project/khyal-geometries&quot;&gt;Khyal Geometries&lt;/a&gt; for the Berlin gig in 2019.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 02 Feb 2025 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2025/02/02/algorhythms/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/02/02/algorhythms/</guid>
         
@@ -129,7 +147,7 @@ alongside numerous other acts. &lt;a href=&quot;https://folklorehoxton.co.uk/&qu
 
 &lt;p&gt;Bandcamp link for the album is &lt;a href=&quot;https://cassiel.bandcamp.com/album/nerve-lab&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 14 Nov 2024 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2024/11/14/nerve-lab/</link>
         <guid isPermaLink="true">http://localhost:4000/2024/11/14/nerve-lab/</guid>
         
@@ -147,7 +165,7 @@ alongside numerous other acts. &lt;a href=&quot;https://folklorehoxton.co.uk/&qu
         <description>&lt;p&gt;Another month, another gig, this time back at the crypt. Evenbrite
 here: &lt;a href=&quot;https://www.eventbrite.co.uk/e/low-stakeshigh-spirits-tickets-1077343757179&quot;&gt;Low Stakes&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 14 Nov 2024 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2024/11/14/low-stakes/</link>
         <guid isPermaLink="true">http://localhost:4000/2024/11/14/low-stakes/</guid>
         
@@ -163,41 +181,13 @@ here: &lt;a href=&quot;https://www.eventbrite.co.uk/e/low-stakeshigh-spirits-tic
         <description>&lt;p&gt;&lt;a href=&quot;https://www.soundonsound.com/people/augmented-instruments-laboratory-sos-podcast&quot;&gt;Interview&lt;/a&gt;
 with Andrew McPherson of the &lt;a href=&quot;https://instrumentslab.org/&quot;&gt;Augmented Instruments Laboratory&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 01 Oct 2024 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2024/10/01/instrumentslab/</link>
         <guid isPermaLink="true">http://localhost:4000/2024/10/01/instrumentslab/</guid>
         
         <category>sound-on-sound</category>
         
         <category>podcast</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Algoevent London</title>
-        <description>&lt;p&gt;Second gig of the summer: we seem to be calling ourselves The Printer Jam: team-up with &lt;a href=&quot;https://pixelist.info/&quot;&gt;BITPRINT&lt;/a&gt;, again
-using a version of the hybrid live coding/VST environment developed for &lt;a href=&quot;https://khyalgeometries.com/&quot;&gt;Khyal Geometries&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Venue: &lt;a href=&quot;https://www.limehousetownhall.co.uk/&quot;&gt;Limehouse Town Hall&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Details and tickets &lt;a href=&quot;https://opencollective.com/live-code-london/events/algoevent-aug-31-2024-eed37f91&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Aug 2024 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2024/08/06/algoevent/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/08/06/algoevent/</guid>
-        
-        <category>clojure</category>
-        
-        <category>live-3d-printing</category>
-        
-        <category>live-coding</category>
-        
-        <category>maxmsp</category>
-        
-        <category>gig</category>
-        
-        <category>the-printer-jam</category>
         
         
       </item>
