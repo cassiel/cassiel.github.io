@@ -5,9 +5,48 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 05 Jun 2025 21:04:00 +0100</pubDate>
-    <lastBuildDate>Thu, 05 Jun 2025 21:04:00 +0100</lastBuildDate>
+    <pubDate>Thu, 03 Jul 2025 10:57:32 +0100</pubDate>
+    <lastBuildDate>Thu, 03 Jul 2025 10:57:32 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>We Are Not Content</title>
+        <description>&lt;p&gt;Last-minute gig, line-up and details below:&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
+    &lt;div class=&quot;block-image&quot;&gt;
+      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
+      
+
+      
+        &lt;div class=&quot;image-area&quot;&gt;
+          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+          &lt;a href=&quot;
+          /img/2025/07/body/not-content-lineup.jpeg
+        &quot; data-lightbox=&quot;_&quot; data-title=&quot;Line-up&quot;&gt;
+            &lt;img src=&quot;
+          /img/2025/07/body/not-content-lineup.jpeg
+        &quot; alt=&quot;Line-up&quot; /&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 03 Jul 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/07/03/wanc/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/07/03/wanc/</guid>
+        
+        <category>maxmsp</category>
+        
+        <category>bitwig</category>
+        
+        <category>gig</category>
+        
+        
+      </item>
     
       <item>
         <title>The Printer Jam, Dalston, June 15th</title>
@@ -172,22 +211,6 @@ here: &lt;a href=&quot;https://www.eventbrite.co.uk/e/low-stakeshigh-spirits-tic
         <category>live-coding</category>
         
         <category>gig</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Sound On Sound Podcast: The Augmented Instruments Laboratory</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.soundonsound.com/people/augmented-instruments-laboratory-sos-podcast&quot;&gt;Interview&lt;/a&gt;
-with Andrew McPherson of the &lt;a href=&quot;https://instrumentslab.org/&quot;&gt;Augmented Instruments Laboratory&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024/10/01/instrumentslab/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/10/01/instrumentslab/</guid>
-        
-        <category>sound-on-sound</category>
-        
-        <category>podcast</category>
         
         
       </item>
