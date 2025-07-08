@@ -5,9 +5,30 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Jul 2025 10:57:32 +0100</pubDate>
-    <lastBuildDate>Thu, 03 Jul 2025 10:57:32 +0100</lastBuildDate>
+    <pubDate>Tue, 08 Jul 2025 20:14:21 +0100</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2025 20:14:21 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Musique Programmatique</title>
+        <description>&lt;p&gt;The gigs are coming thick and fast at the moment. This is another outing for &lt;a href=&quot;/project/the-printer-jam&quot;&gt;The Printer Jam&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tickets &lt;a href=&quot;https://lu.ma/2rkkzmcz&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Jul 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/07/08/musique-programmatique/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/07/08/musique-programmatique/</guid>
+        
+        <category>maxmsp</category>
+        
+        <category>bitwig</category>
+        
+        <category>gig</category>
+        
+        <category>the-printer-jam</category>
+        
+        
+      </item>
     
       <item>
         <title>We Are Not Content</title>
@@ -195,22 +216,6 @@ alongside numerous other acts. &lt;a href=&quot;https://folklorehoxton.co.uk/&qu
         <category>gig</category>
         
         <category>nerve-lab</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Low Stakes | High Spirits</title>
-        <description>&lt;p&gt;Another month, another gig, this time back at the crypt. Evenbrite
-here: &lt;a href=&quot;https://www.eventbrite.co.uk/e/low-stakeshigh-spirits-tickets-1077343757179&quot;&gt;Low Stakes&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2024/11/14/low-stakes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/11/14/low-stakes/</guid>
-        
-        <category>live-coding</category>
-        
-        <category>gig</category>
         
         
       </item>
