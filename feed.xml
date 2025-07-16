@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Jul 2025 20:26:03 +0100</pubDate>
-    <lastBuildDate>Tue, 08 Jul 2025 20:26:03 +0100</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 21:01:38 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 21:01:38 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Karelian Skies 2025</title>
+        <description>&lt;p&gt;Outing number three for &lt;a href=&quot;/projects/karelian-skies/&quot;&gt;Karelian Skies&lt;/a&gt; in Nurmes, East Finland. Thanks again to &lt;a href=&quot;http://www.ozoneplayer.com/op/ozone-player.html&quot;&gt;Otso Pakarinen&lt;/a&gt; for the invitation.&lt;/p&gt;
+
+&lt;p&gt;Tickets &lt;a href=&quot;https://aksytammat.fi/p/1290/karelian-skies-282025&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Jul 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/07/16/karelian-skies/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/07/16/karelian-skies/</guid>
+        
+        <category>karelian-skies</category>
+        
+        <category>gig</category>
+        
+        
+      </item>
     
       <item>
         <title>Musique Programmatique</title>
@@ -201,25 +218,6 @@ alongside numerous other acts. &lt;a href=&quot;https://folklorehoxton.co.uk/&qu
         <category>clojure</category>
         
         <category>maxmsp</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Nerve Lab</title>
-        <description>&lt;p&gt;My first live album (solo, as opposed to releases of live outings with Team Metlay or mindSpiral). The Nerve Lab is a UAL research facility currently under construction, during which time it is ideal for performances.&lt;/p&gt;
-
-&lt;p&gt;Bandcamp link for the album is &lt;a href=&quot;https://cassiel.bandcamp.com/album/nerve-lab&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2024/11/14/nerve-lab/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/11/14/nerve-lab/</guid>
-        
-        <category>bandcamp</category>
-        
-        <category>gig</category>
-        
-        <category>nerve-lab</category>
         
         
       </item>
