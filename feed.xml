@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Jul 2025 21:01:38 +0100</pubDate>
-    <lastBuildDate>Wed, 16 Jul 2025 21:01:38 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Jul 2025 20:22:44 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Jul 2025 20:22:44 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Becoming, 2025</title>
+        <description>&lt;p&gt;We are doing a rebuild of &lt;a href=&quot;http://openendedgroup.com/&quot;&gt;Open Ended Group&lt;/a&gt;’s  12-year-old choreographic AI &lt;em&gt;Becoming&lt;/em&gt; for a major retrospective of Wayne McGregor’s work at &lt;a href=&quot;https://www.somersethouse.org.uk/whats-on/wayne-mcgregor-infinite-bodies&quot;&gt;Somerset House&lt;/a&gt;, opening in October. We were fortunate that the original 2013 hardware - and 3d plasma screen - still run, as we port and reconfigure the software onto a new machine for the exhibition. Sourcing 3D display hardware is likely to be more challenging.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Jul 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/07/20/becoming/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/07/20/becoming/</guid>
+        
+        <category>field</category>
+        
+        <category>becoming</category>
+        
+        <category>wayne-mcgregor</category>
+        
+        
+      </item>
     
       <item>
         <title>Karelian Skies 2025</title>
@@ -199,23 +216,6 @@ alongside numerous other acts. &lt;a href=&quot;https://folklorehoxton.co.uk/&qu
         <category>sound-on-sound</category>
         
         <category>review</category>
-        
-        <category>maxmsp</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>AlgoRhythms</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://ra.co/events/2076350&quot;&gt;First gig of 2025&lt;/a&gt;. The previous few gigs were controller-based (Bitwig Studio, Max control code, monome arc, MIDI Fighter) but in the context of a live coding event the controllers and DAW are out, and we’re back with an updated version of the Clojure-and-Max system first built for &lt;a href=&quot;/project/khyal-geometries&quot;&gt;Khyal Geometries&lt;/a&gt; for the Berlin gig in 2019.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2025/02/02/algorhythms/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/02/02/algorhythms/</guid>
-        
-        <category>gig</category>
-        
-        <category>clojure</category>
         
         <category>maxmsp</category>
         
