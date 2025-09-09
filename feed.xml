@@ -5,9 +5,32 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 Aug 2025 19:29:53 +0100</pubDate>
-    <lastBuildDate>Sun, 31 Aug 2025 19:29:53 +0100</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 20:59:12 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2025 20:59:12 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Algorithmic Pattern 2025</title>
+        <description>&lt;p&gt;Later this week we’re presenting our mathematical animation techniques for Cosmoscope at the &lt;a href=&quot;https://2025.algorithmicpattern.org/conference/&quot;&gt;Alpaca&lt;/a&gt; (Algorithmic Patterns) conference.&lt;/p&gt;
+
+&lt;p&gt;It was a bit of work to get the ClojureScript project going again (with some grief from Emscripten), and it’s now built in &lt;a href=&quot;https://github.com/thheller/shadow-cljs&quot;&gt;shadow-cljs&lt;/a&gt;, but it’ll not be applicable to much more than retrospective write-ups since the actual sculpture is long dead as an audiovisual work.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/09/09/alpaca/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/09/09/alpaca/</guid>
+        
+        <category>alpaca</category>
+        
+        <category>cosmoscope</category>
+        
+        <category>shadow-cljs</category>
+        
+        <category>simeon-nelson</category>
+        
+        <category>three-js</category>
+        
+        
+      </item>
     
       <item>
         <title>Ultra Process A/V</title>
@@ -217,27 +240,6 @@ Tickets &lt;a href=&quot;https://dice.fm/event/8eppn5-sonic-electronics-london-f
         <category>luz-mannion</category>
         
         <category>dance</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>AlgoRhythms</title>
-        <description>&lt;p&gt;As a warm-up for ICLC, the &lt;a href=&quot;https://lu.ma/ydicdxow&quot;&gt;first gig north of the river&lt;/a&gt; for
-&lt;a href=&quot;/project/the-printer-jam&quot;&gt;The Printer Jam&lt;/a&gt;,
-alongside numerous other acts. &lt;a href=&quot;https://folklorehoxton.co.uk/&quot;&gt;Folklore&lt;/a&gt;, Hoxton.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 04 May 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2025/05/04/folklore/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/05/04/folklore/</guid>
-        
-        <category>gig</category>
-        
-        <category>clojure</category>
-        
-        <category>maxmsp</category>
-        
-        <category>the-printer-jam</category>
         
         
       </item>
