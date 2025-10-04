@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Sep 2025 14:26:17 +0100</pubDate>
-    <lastBuildDate>Thu, 11 Sep 2025 14:26:17 +0100</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 10:08:20 +0100</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 10:08:20 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Transmutação em Luz e Som</title>
+        <description>&lt;p&gt;We are giving a Max/MSP/Jitter workshop entitled “Transmutação em Luz e Som” (Transmutation into Light and Sound) at the University of Coimbra, Portugal: Sala do Carvão - Casa das Caldeiras, Teatro Académico de Gil Vicente.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Oct 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/10/01/max-coimbra/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/10/01/max-coimbra/</guid>
+        
+        <category>maxmsp</category>
+        
+        <category>jitter</category>
+        
+        <category>coimbra</category>
+        
+        
+      </item>
     
       <item>
         <title>Algorithmic Pattern 2025</title>
@@ -240,28 +257,6 @@ Tickets &lt;a href=&quot;https://dice.fm/event/8eppn5-sonic-electronics-london-f
         <category>guthman</category>
         
         <category>podcast</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Blue Ghost, UK 2025</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/project/blue-ghost&quot;&gt;Blue Ghost&lt;/a&gt; returns to the UK in July.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;July 10th: &lt;a href=&quot;https://cornexchangenew.com/&quot;&gt;Corn Exchange Newbury&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;July 11th: &lt;a href=&quot;https://www.dorchesterarts.org.uk/&quot;&gt;Dorchester Arts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 29 May 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2025/05/29/blue-ghost-2025/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/05/29/blue-ghost-2025/</guid>
-        
-        <category>blue-ghost</category>
-        
-        <category>luz-mannion</category>
-        
-        <category>dance</category>
         
         
       </item>
