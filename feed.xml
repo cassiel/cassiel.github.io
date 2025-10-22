@@ -5,9 +5,24 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Oct 2025 20:43:08 +0100</pubDate>
-    <lastBuildDate>Tue, 14 Oct 2025 20:43:08 +0100</lastBuildDate>
+    <pubDate>Wed, 22 Oct 2025 09:24:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Oct 2025 09:24:00 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Quarto Escuro de Goethe</title>
+        <description>&lt;p&gt;Best of luck to &lt;a href=&quot;https://semaforo.cc/&quot;&gt;Eunice Gonçalves Duarte&lt;/a&gt; and the rest of the team for today’s premiere of &lt;em&gt;Quarto Escuro de Goethe&lt;/em&gt; at Teatro Académico Gil Vicente later today. (This takes the record for my longest rendered soundtrack, at a little over three hours.) Toi toi toi!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Oct 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/10/22/quarto-escuro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/10/22/quarto-escuro/</guid>
+        
+        <category>coimbra</category>
+        
+        <category>semaforo</category>
+        
+        
+      </item>
     
       <item>
         <title>Bitwig Connect 4/12</title>
@@ -278,26 +293,6 @@ Tickets &lt;a href=&quot;https://dice.fm/event/8eppn5-sonic-electronics-london-f
         <guid isPermaLink="true">http://localhost:4000/2025/06/05/sonic-electronics/</guid>
         
         <category>clojure</category>
-        
-        <category>maxmsp</category>
-        
-        <category>the-printer-jam</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Printer Jam at ICLC</title>
-        <description>&lt;p&gt;An international outing for The Printer Jam: we play &lt;a href=&quot;https://iclc.toplap.org/2025/&quot;&gt;ICLC&lt;/a&gt; at
-&lt;a href=&quot;https://www.uoc.edu/en&quot;&gt;Universitat Oberta de Catalunya&lt;/a&gt; on the 30th.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 May 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2025/05/29/printer-jam-iclc/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/05/29/printer-jam-iclc/</guid>
-        
-        <category>clojure</category>
-        
-        <category>iclc</category>
         
         <category>maxmsp</category>
         
