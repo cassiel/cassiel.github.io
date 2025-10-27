@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Oct 2025 09:24:00 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2025 09:24:00 +0100</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2025 20:39:42 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2025 20:39:42 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Low Stakes | High Spirits</title>
+        <description>&lt;p&gt;A return to the Crypt after a year.&lt;/p&gt;
+
+&lt;p&gt;Tickets here: &lt;a href=&quot;https://luma.com/symkozub&quot;&gt;Low Stakes&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2025/10/27/low-stakes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/10/27/low-stakes/</guid>
+        
+        <category>live-coding</category>
+        
+        <category>gig</category>
+        
+        
+      </item>
     
       <item>
         <title>Quarto Escuro de Goethe</title>
@@ -279,24 +296,6 @@
         <category>bitwig</category>
         
         <category>gig</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Printer Jam, Dalston, June 15th</title>
-        <description>&lt;p&gt;Another month, another gig, June 15th: &lt;a href=&quot;https://www.jaguarshoes.com/venues/the-victoria/&quot;&gt;The Victoria&lt;/a&gt;, Dalston.
-Tickets &lt;a href=&quot;https://dice.fm/event/8eppn5-sonic-electronics-london-farewell-party-15th-jun-the-victoria-london-tickets&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 05 Jun 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2025/06/05/sonic-electronics/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/06/05/sonic-electronics/</guid>
-        
-        <category>clojure</category>
-        
-        <category>maxmsp</category>
-        
-        <category>the-printer-jam</category>
         
         
       </item>
