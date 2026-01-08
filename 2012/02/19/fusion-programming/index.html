@@ -741,7 +741,7 @@
           
           </h3>
         
-        <!-- <span class="meta">Posted by {"display_name" => "nick", "login" => "nick", "email" => "nick@cassiel.com", "url" => "http://www.cassiel.com"} on February 19, 2012</span> -->
+        <!-- <span class="meta">Posted by {"display_name"=>"nick", "login"=>"nick", "email"=>"nick@cassiel.com", "url"=>"http://www.cassiel.com"} on February 19, 2012</span> -->
       </div>
   </div>
 </header>
@@ -783,32 +783,27 @@
 
 <p>If we’re developing in two languages at once, we need to be able to pass information between them, not least configuration information from Python into Clojure. In Python, we organise our manifest constants without polluting the top-level namespace by declaring things like this:</p>
 
-<noscript><pre>400: Invalid request</pre></noscript>
-<script src="https://gist.github.com/1831280.js"> </script>
+<script src="https://gist.github.com/1831280.js"></script>
 
 <p>This lets us use names like <code class="language-plaintext highlighter-rouge">m_Configuration.TREE_DEPTH</code> (value <code class="language-plaintext highlighter-rouge">5</code>) or (if we use our rather implausible test declaration) <code class="language-plaintext highlighter-rouge">m_Nested.A.C</code> (<code class="language-plaintext highlighter-rouge">"Hello"</code>). The Python for <code class="language-plaintext highlighter-rouge">Manifest</code> is pretty simple:</p>
 
-<noscript><pre>400: Invalid request</pre></noscript>
-<script src="https://gist.github.com/1863409.js"> </script>
+<script src="https://gist.github.com/1863409.js"></script>
 
 <p>So what of the Clojure world? Passing a <code class="language-plaintext highlighter-rouge">Manifest</code> into Clojure exposes an object constructed from numerous Jython components, whereas what we really want is Clojure hash maps with keywords, so that we can write things like <code class="language-plaintext highlighter-rouge">(:TREE_DEPTH m_Configuration)</code> or <code class="language-plaintext highlighter-rouge">(:C (:A m_Nested))</code>. So, here’s an implementation of something we call <code class="language-plaintext highlighter-rouge">hashify</code>:</p>
 
-<noscript><pre>400: Invalid request</pre></noscript>
-<script src="https://gist.github.com/1863525.js"> </script>
+<script src="https://gist.github.com/1863525.js"></script>
 
 <p>We scan through the keys, turning each one into a Clojure keyword and converting its value (recursively, so that we can handle nested manifest objects and lists). The conversion from Java iterator into Clojure list is rather ugly - I’m a bit surprised that there’s no pre-existing support for this.</p>
 
 <p>Looking back at the Field listing at the top: we pass the various manifest objects as arguments to top-level Clojure functions which are higher-order and hence return the actual functions we call from Python, having hashified the manifests. Here’s the main function from a current artwork:</p>
 
-<noscript><pre>400: Invalid request</pre></noscript>
-<script src="https://gist.github.com/1863592.js"> </script>
+<script src="https://gist.github.com/1863592.js"></script>
 
 <p>The big win here is the ability to map-bind the entries of a manifest in one go. Using the <code class="language-plaintext highlighter-rouge">:keys</code> form here binds the names directly, at the cost of a pile of ugly upper-case identifiers in the middle of the code - but there’s no reason why we couldn’t modify <code class="language-plaintext highlighter-rouge">hashify</code> to downcase everything.</p>
 
 <p>The final push: it makes sense to pass composite data objects from Clojure back to Python in the same form (rather straining the original intent of “manifest”), but how do we turn Clojure’s persistent hash maps back into manifest objects? It would be great if we could overload the <code class="language-plaintext highlighter-rouge">Manifest</code> constructor to take a hash map; since we can’t, this is the closest I managed to get: an optional non-keyword argument which can be a hash map. <code class="language-plaintext highlighter-rouge">Manifest</code> now looks like this:</p>
 
-<noscript><pre>400: Invalid request</pre></noscript>
-<script src="https://gist.github.com/1864710.js"> </script>
+<script src="https://gist.github.com/1864710.js"></script>
 
 <p>This is effectively “<code class="language-plaintext highlighter-rouge">unhashify</code>” on the Python side (and again it’s recursive to handle nested structures). The instance check for <code class="language-plaintext highlighter-rouge">Map</code> gets us hash maps; the instance check for <code class="language-plaintext highlighter-rouge">List</code> gets us Clojure lists, vectors and sequences. The only real Clojure-dependent part of this is the <code class="language-plaintext highlighter-rouge">.getName()</code> call on the keywords to turn them back into strings. (Again, we’d probably want to upcase these to be typographically correct.)</p>
 
@@ -897,17 +892,17 @@
       </li>
     
       
-      <li><a href="/tag/wayne-mcgregor">
-        
-        Wayne McGregor
-        </a>
-        <span class="faint">11<span>
-      </li>
-    
-      
       <li><a href="/tag/dance">
         
         Dance
+        </a>
+        <span class="faint">12<span>
+      </li>
+    
+      
+      <li><a href="/tag/wayne-mcgregor">
+        
+        Wayne McGregor
         </a>
         <span class="faint">11<span>
       </li>
@@ -1009,6 +1004,14 @@
       </li>
     
       
+      <li><a href="/tag/blue-ghost">
+        
+        Blue Ghost
+        </a>
+        <span class="faint">6<span>
+      </li>
+    
+      
       <li><a href="/tag/algorave">
         
         Algorave
@@ -1025,9 +1028,9 @@
       </li>
     
       
-      <li><a href="/tag/blue-ghost">
+      <li><a href="/tag/dotdotdot">
         
-        Blue Ghost
+        Dotdotdot Dance
         </a>
         <span class="faint">5<span>
       </li>
@@ -1076,14 +1079,6 @@
       <li><a href="/tag/max-for-live">
         
         Max for Live
-        </a>
-        <span class="faint">4<span>
-      </li>
-    
-      
-      <li><a href="/tag/dotdotdot">
-        
-        Dotdotdot Dance
         </a>
         <span class="faint">4<span>
       </li>
@@ -1332,6 +1327,14 @@
       <li><a href="/tag/midi">
         
         MIDI
+        </a>
+        <span class="faint">2<span>
+      </li>
+    
+      
+      <li><a href="/tag/luz-mannion">
+        
+        Luz & Mannion
         </a>
         <span class="faint">2<span>
       </li>
@@ -1860,14 +1863,6 @@
       <li><a href="/tag/lysets-lyd">
         
         Lysets Lyd
-        </a>
-        <span class="faint">1<span>
-      </li>
-    
-      
-      <li><a href="/tag/luz-mannion">
-        
-        Luz & Mannion
         </a>
         <span class="faint">1<span>
       </li>
@@ -2415,7 +2410,7 @@
                     </li>
                     
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; Cassiel 2025</p>
+                <p class="copyright text-muted">Copyright &copy; Cassiel 2026</p>
             </div>
         </div>
     </div>
