@@ -3,10 +3,10 @@
   <channel>
     <title>Cassiel</title>
     <description>Cassiel: music, media, systems, performance, installation</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jan 2026 15:13:57 +0000</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2026 15:13:57 +0000</lastBuildDate>
+    <link>https://cassiel.com/</link>
+    <atom:link href="https://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 25 Jan 2026 15:25:46 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2026 15:25:46 +0000</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -248,8 +248,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2026/01/24/plenum-kuala-lumpur/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026/01/24/plenum-kuala-lumpur/</guid>
+        <link>https://cassiel.com/2026/01/24/plenum-kuala-lumpur/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/01/24/plenum-kuala-lumpur/</guid>
         
         <category>plenum</category>
         
@@ -263,8 +263,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 &lt;p&gt;Tickets &lt;a href=&quot;https://www.eventbrite.co.uk/e/future-folk-tickets-1974936198333&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2026/01/09/future-folk/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026/01/09/future-folk/</guid>
+        <link>https://cassiel.com/2026/01/09/future-folk/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/01/09/future-folk/</guid>
         
         <category>dance</category>
         
@@ -278,8 +278,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
         <description>&lt;p&gt;Very old news, but just for completeless: Blue Ghost was performed at Cankarjev dom, Ljubljana, Slovenia back in October.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2026/01/08/blue-ghost-slovenia/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026/01/08/blue-ghost-slovenia/</guid>
+        <link>https://cassiel.com/2026/01/08/blue-ghost-slovenia/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/01/08/blue-ghost-slovenia/</guid>
         
         <category>blue-ghost</category>
         
@@ -342,8 +342,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2025/11/22/nine-earths/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/11/22/nine-earths/</guid>
+        <link>https://cassiel.com/2025/11/22/nine-earths/</link>
+        <guid isPermaLink="true">https://cassiel.com/2025/11/22/nine-earths/</guid>
         
         <category>live-coding</category>
         
@@ -385,8 +385,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2025/11/22/fors-pivot/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/11/22/fors-pivot/</guid>
+        <link>https://cassiel.com/2025/11/22/fors-pivot/</link>
+        <guid isPermaLink="true">https://cassiel.com/2025/11/22/fors-pivot/</guid>
         
         <category>sound-on-sound</category>
         
@@ -402,8 +402,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 &lt;p&gt;Tickets &lt;a href=&quot;https://ra.co/events/2280905&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2025/11/09/algorave-corsica/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/11/09/algorave-corsica/</guid>
+        <link>https://cassiel.com/2025/11/09/algorave-corsica/</link>
+        <guid isPermaLink="true">https://cassiel.com/2025/11/09/algorave-corsica/</guid>
         
         <category>live-coding</category>
         
@@ -423,8 +423,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 &lt;p&gt;Tickets here: &lt;a href=&quot;https://luma.com/symkozub&quot;&gt;Low Stakes&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2025/10/27/low-stakes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/10/27/low-stakes/</guid>
+        <link>https://cassiel.com/2025/10/27/low-stakes/</link>
+        <guid isPermaLink="true">https://cassiel.com/2025/10/27/low-stakes/</guid>
         
         <category>live-coding</category>
         
@@ -481,8 +481,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 22 Oct 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2025/10/22/quarto-escuro/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/10/22/quarto-escuro/</guid>
+        <link>https://cassiel.com/2025/10/22/quarto-escuro/</link>
+        <guid isPermaLink="true">https://cassiel.com/2025/10/22/quarto-escuro/</guid>
         
         <category>coimbra</category>
         
@@ -498,8 +498,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 &lt;p&gt;Thanks to &lt;a href=&quot;https://infovore.org/&quot;&gt;Tom Armitage&lt;/a&gt; for the session with the &lt;a href=&quot;https://www.musicthing.co.uk/workshopsystem/&quot;&gt;Music Thing Modular Workshop System&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2025/10/14/bitwig-connect-412/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/10/14/bitwig-connect-412/</guid>
+        <link>https://cassiel.com/2025/10/14/bitwig-connect-412/</link>
+        <guid isPermaLink="true">https://cassiel.com/2025/10/14/bitwig-connect-412/</guid>
         
         <category>sound-on-sound</category>
         
@@ -558,8 +558,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 01 Oct 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2025/10/01/max-coimbra/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/10/01/max-coimbra/</guid>
+        <link>https://cassiel.com/2025/10/01/max-coimbra/</link>
+        <guid isPermaLink="true">https://cassiel.com/2025/10/01/max-coimbra/</guid>
         
         <category>maxmsp</category>
         
