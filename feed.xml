@@ -3,11 +3,28 @@
   <channel>
     <title>Cassiel</title>
     <description>Cassiel: music, media, systems, performance, installation</description>
-    <link>https://cassiel.com/</link>
-    <atom:link href="https://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jan 2026 15:25:46 +0000</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2026 15:25:46 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 07 Mar 2026 20:35:28 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2026 20:35:28 +0000</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Quarto Escuro de Goethe in Lisbon</title>
+        <description>&lt;p&gt;Two days of performance for the premiere of &lt;a href=&quot;https://semaforo.cc/quarto-escuro-de-goethe/&quot;&gt;Quarto Escuro de Goethe&lt;/a&gt; in Lisbon.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2026/03/07/quarto-escuro-lisbon/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/03/07/quarto-escuro-lisbon/</guid>
+        
+        <category>lisbon</category>
+        
+        <category>quarto-escuro-de-goethe</category>
+        
+        <category>semaforo</category>
+        
+        
+      </item>
     
       <item>
         <title>Plenum in Kuala Lumpur</title>
@@ -248,8 +265,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2026/01/24/plenum-kuala-lumpur/</link>
-        <guid isPermaLink="true">https://cassiel.com/2026/01/24/plenum-kuala-lumpur/</guid>
+        <link>http://localhost:4000/2026/01/24/plenum-kuala-lumpur/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/01/24/plenum-kuala-lumpur/</guid>
         
         <category>plenum</category>
         
@@ -263,8 +280,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 &lt;p&gt;Tickets &lt;a href=&quot;https://www.eventbrite.co.uk/e/future-folk-tickets-1974936198333&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2026/01/09/future-folk/</link>
-        <guid isPermaLink="true">https://cassiel.com/2026/01/09/future-folk/</guid>
+        <link>http://localhost:4000/2026/01/09/future-folk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/01/09/future-folk/</guid>
         
         <category>dance</category>
         
@@ -278,8 +295,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
         <description>&lt;p&gt;Very old news, but just for completeless: Blue Ghost was performed at Cankarjev dom, Ljubljana, Slovenia back in October.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2026/01/08/blue-ghost-slovenia/</link>
-        <guid isPermaLink="true">https://cassiel.com/2026/01/08/blue-ghost-slovenia/</guid>
+        <link>http://localhost:4000/2026/01/08/blue-ghost-slovenia/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/01/08/blue-ghost-slovenia/</guid>
         
         <category>blue-ghost</category>
         
@@ -342,8 +359,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2025/11/22/nine-earths/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/11/22/nine-earths/</guid>
+        <link>http://localhost:4000/2025/11/22/nine-earths/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/11/22/nine-earths/</guid>
         
         <category>live-coding</category>
         
@@ -385,8 +402,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2025/11/22/fors-pivot/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/11/22/fors-pivot/</guid>
+        <link>http://localhost:4000/2025/11/22/fors-pivot/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/11/22/fors-pivot/</guid>
         
         <category>sound-on-sound</category>
         
@@ -402,8 +419,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 &lt;p&gt;Tickets &lt;a href=&quot;https://ra.co/events/2280905&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2025/11/09/algorave-corsica/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/11/09/algorave-corsica/</guid>
+        <link>http://localhost:4000/2025/11/09/algorave-corsica/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/11/09/algorave-corsica/</guid>
         
         <category>live-coding</category>
         
@@ -423,8 +440,8 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 &lt;p&gt;Tickets here: &lt;a href=&quot;https://luma.com/symkozub&quot;&gt;Low Stakes&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2025/10/27/low-stakes/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/10/27/low-stakes/</guid>
+        <link>http://localhost:4000/2025/10/27/low-stakes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/10/27/low-stakes/</guid>
         
         <category>live-coding</category>
         
@@ -469,10 +486,10 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
           &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
           &lt;a href=&quot;
           /img/2025/10/body/goethe.jpg
-        &quot; data-lightbox=&quot;_&quot; data-title=&quot;Beatriz Boleto&quot;&gt;
+        &quot; data-lightbox=&quot;_&quot; data-title=&quot;Beatriz Boleto | Fotos ©João Duarte&quot;&gt;
             &lt;img src=&quot;
           /img/2025/10/body/goethe.jpg
-        &quot; alt=&quot;Beatriz Boleto&quot; /&gt;&lt;/a&gt;
+        &quot; alt=&quot;Beatriz Boleto | Fotos ©João Duarte&quot; /&gt;&lt;/a&gt;
         &lt;/div&gt;
       
     &lt;/div&gt;
@@ -481,10 +498,12 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 22 Oct 2025 00:00:00 +0100</pubDate>
-        <link>https://cassiel.com/2025/10/22/quarto-escuro/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/10/22/quarto-escuro/</guid>
+        <link>http://localhost:4000/2025/10/22/quarto-escuro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/10/22/quarto-escuro/</guid>
         
         <category>coimbra</category>
+        
+        <category>quarto-escuro-de-goethe</category>
         
         <category>semaforo</category>
         
@@ -498,74 +517,14 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
 &lt;p&gt;Thanks to &lt;a href=&quot;https://infovore.org/&quot;&gt;Tom Armitage&lt;/a&gt; for the session with the &lt;a href=&quot;https://www.musicthing.co.uk/workshopsystem/&quot;&gt;Music Thing Modular Workshop System&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-        <link>https://cassiel.com/2025/10/14/bitwig-connect-412/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/10/14/bitwig-connect-412/</guid>
+        <link>http://localhost:4000/2025/10/14/bitwig-connect-412/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/10/14/bitwig-connect-412/</guid>
         
         <category>sound-on-sound</category>
         
         <category>review</category>
         
         <category>bitwig</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Transmutação em Luz e Som</title>
-        <description>&lt;p&gt;We are giving a Max/MSP/Jitter workshop entitled “Transmutação em Luz e Som” (Transmutation into Light and Sound) at the University of Coimbra, Portugal: Sala do Carvão - Casa das Caldeiras, Teatro Académico de Gil Vicente.&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
-    &lt;div class=&quot;block-image&quot;&gt;
-      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
-      
-
-      
-        &lt;div class=&quot;image-area&quot;&gt;
-          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
-          &lt;a href=&quot;
-          /img/2025/10/body/poster1.jpeg
-        &quot; data-lightbox=&quot;_&quot; data-title=&quot;&quot;&gt;
-            &lt;img src=&quot;
-          /img/2025/10/body/poster1.jpeg
-        &quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
-    &lt;div class=&quot;block-image&quot;&gt;
-      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
-      
-
-      
-        &lt;div class=&quot;image-area&quot;&gt;
-          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
-          &lt;a href=&quot;
-          /img/2025/10/body/poster2.jpeg
-        &quot; data-lightbox=&quot;_&quot; data-title=&quot;&quot;&gt;
-            &lt;img src=&quot;
-          /img/2025/10/body/poster2.jpeg
-        &quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0100</pubDate>
-        <link>https://cassiel.com/2025/10/01/max-coimbra/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/10/01/max-coimbra/</guid>
-        
-        <category>maxmsp</category>
-        
-        <category>jitter</category>
-        
-        <category>coimbra</category>
         
         
       </item>
