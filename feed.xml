@@ -5,9 +5,34 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>https://cassiel.com/</link>
     <atom:link href="https://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 Mar 2026 17:10:21 +0000</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2026 17:10:21 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 20:26:47 +0000</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 20:26:47 +0000</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Ultra Process 2</title>
+        <description>&lt;p&gt;Another Ultra Process gig for &lt;a href=&quot;/project/the-printer-jam&quot;&gt;The Printer Jam&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Venue: &lt;a href=&quot;https://folklorehoxton.co.uk/&quot;&gt;Folklore&lt;/a&gt;, Hoxton.&lt;/p&gt;
+
+&lt;p&gt;Tickets &lt;a href=&quot;https://luma.com/47ev6cto&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Image credit: &lt;a href=&quot;https://www.youtube.com/@pixelpusher13&quot;&gt;Evan Raskob&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://cassiel.com/2026/03/24/ultra-process/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/03/24/ultra-process/</guid>
+        
+        <category>maxmsp</category>
+        
+        <category>bitwig</category>
+        
+        <category>gig</category>
+        
+        <category>the-printer-jam</category>
+        
+        
+      </item>
     
       <item>
         <title>Quarto Escuro de Goethe in Lisbon</title>
@@ -506,25 +531,6 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
         <category>quarto-escuro-de-goethe</category>
         
         <category>semaforo</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Bitwig Connect 4/12</title>
-        <description>&lt;p&gt;A little late posting this, but: review of the &lt;a href=&quot;https://www.soundonsound.com/reviews/bitwig-connect-412&quot;&gt;Bitwig Connect 4/12&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thanks to &lt;a href=&quot;https://infovore.org/&quot;&gt;Tom Armitage&lt;/a&gt; for the session with the &lt;a href=&quot;https://www.musicthing.co.uk/workshopsystem/&quot;&gt;Music Thing Modular Workshop System&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-        <link>https://cassiel.com/2025/10/14/bitwig-connect-412/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/10/14/bitwig-connect-412/</guid>
-        
-        <category>sound-on-sound</category>
-        
-        <category>review</category>
-        
-        <category>bitwig</category>
         
         
       </item>
