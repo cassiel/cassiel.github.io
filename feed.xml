@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>https://cassiel.com/</link>
     <atom:link href="https://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 06 Jun 2026 13:51:24 +0100</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2026 13:51:24 +0100</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 22:42:37 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 22:42:37 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Low Stakes | High Spirits</title>
+        <description>&lt;p&gt;Another gig at The Crypt.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2026 00:00:00 +0100</pubDate>
+        <link>https://cassiel.com/2026/06/11/low-stakes/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/06/11/low-stakes/</guid>
+        
+        <category>live-coding</category>
+        
+        <category>gig</category>
+        
+        <category>the-printer-jam</category>
+        
+        
+      </item>
     
       <item>
         <title>Quarto Escuro de Goethe in Gouveia</title>
@@ -471,27 +488,6 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
         <category>sound-on-sound</category>
         
         <category>review</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>ΛLGØΓΛVΞ, Corsica Studios</title>
-        <description>&lt;p&gt;Next ΛLGØΓΛVΞ / Algorave at the soon-to-be-closed &lt;a href=&quot;https://www.corsicastudios.com/&quot;&gt;Corsica Studios&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tickets &lt;a href=&quot;https://ra.co/events/2280905&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2025/11/09/algorave-corsica/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/11/09/algorave-corsica/</guid>
-        
-        <category>live-coding</category>
-        
-        <category>gig</category>
-        
-        <category>algorave</category>
-        
-        <category>the-printer-jam</category>
         
         
       </item>
