@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>https://cassiel.com/</link>
     <atom:link href="https://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Jun 2026 22:42:37 +0100</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 22:42:37 +0100</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 13:30:52 +0100</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 13:30:52 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Audio Buffer London</title>
+        <description>&lt;p&gt;A talk about “opinionated controllerism” and live coding, hosted by Music Technology UK.&lt;/p&gt;
+
+&lt;p&gt;Event link &lt;a href=&quot;https://luma.com/p22n1v7h?tk=OEBGEc&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jun 2026 00:00:00 +0100</pubDate>
+        <link>https://cassiel.com/2026/06/13/audio-buffer/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/06/13/audio-buffer/</guid>
+        
+        <category>creativity</category>
+        
+        <category>presentation</category>
+        
+        
+      </item>
     
       <item>
         <title>Low Stakes | High Spirits</title>
@@ -451,43 +468,6 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
         <category>the-printer-jam</category>
         
         <category>d-fuse</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Fors Pivot</title>
-        <description>&lt;p&gt;Review: &lt;a href=&quot;https://www.soundonsound.com/reviews/fors-pivot&quot;&gt;Fors Pivot&lt;/a&gt; FM synth.&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
-    &lt;div class=&quot;block-image&quot;&gt;
-      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
-      
-
-      
-        &lt;div class=&quot;image-area&quot;&gt;
-          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
-          &lt;a href=&quot;
-          /img/2025/11/body/mod-matrix.jpg
-        &quot; data-lightbox=&quot;_&quot; data-title=&quot;Fors Pivot Modulation Matrix&quot;&gt;
-            &lt;img src=&quot;
-          /img/2025/11/body/mod-matrix.jpg
-        &quot; alt=&quot;Fors Pivot Modulation Matrix&quot; /&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2025/11/22/fors-pivot/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/11/22/fors-pivot/</guid>
-        
-        <category>sound-on-sound</category>
-        
-        <category>review</category>
         
         
       </item>
