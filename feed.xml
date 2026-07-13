@@ -5,9 +5,34 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>https://cassiel.com/</link>
     <atom:link href="https://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 13 Jun 2026 13:30:52 +0100</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2026 13:30:52 +0100</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 20:56:27 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:56:27 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Dual Duet</title>
+        <description>&lt;p&gt;Two gigs in one night: not quite a first (the same happened in Kathmandu many years ago), but perhaps the first representing two completely different projects on the same stage. First up is &lt;a href=&quot;/project/khyal-geometries/&quot;&gt;Khyal Geometries&lt;/a&gt;, second is &lt;a href=&quot;/project/the-printer-jam&quot;&gt;The Printer Jam&lt;/a&gt;, both as part of &lt;a href=&quot;https://cc.acm.org/2026/reception/&quot;&gt;ACM Creativity and Cognition 2026&lt;/a&gt;. The former will be live-coded (Max, Node.js, ClojureScript); the latter will be controllerism.&lt;/p&gt;
+
+&lt;p&gt;It’s only now that I realise that my carefully crafted blog taxonomy cannot deal with a single blog post that spans more than one project.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jul 2026 00:00:00 +0100</pubDate>
+        <link>https://cassiel.com/2026/07/13/dual-duet/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/07/13/dual-duet/</guid>
+        
+        <category>khyal-geometries</category>
+        
+        <category>the-printer-jam</category>
+        
+        <category>gig</category>
+        
+        <category>live-coding</category>
+        
+        <category>maxmsp</category>
+        
+        <category>clojurescript</category>
+        
+        
+      </item>
     
       <item>
         <title>Audio Buffer London</title>
@@ -402,72 +427,6 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
         <category>dance</category>
         
         <category>luz-mannion</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>D-Fuse Nine Earths</title>
-        <description>&lt;p&gt;Our good friends at &lt;a href=&quot;https://www.dfuse.com/&quot;&gt;D-Fuse&lt;/a&gt; are running a two-day event at the &lt;a href=&quot;https://www.westminster.ac.uk/about-us/visit-us/ambika-p3&quot;&gt;Ambika P3 space&lt;/a&gt; at the University of Westminster this coming week. We’re performing on the Friday night.&lt;/p&gt;
-
-&lt;p&gt;Tickets &lt;a href=&quot;https://www.eventbrite.co.uk/e/d-fuse-presents-nine-earths-summit-p3-tickets-1963347524297&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
-    &lt;div class=&quot;block-image&quot;&gt;
-      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
-      
-
-      
-        &lt;div class=&quot;image-area&quot;&gt;
-          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
-          &lt;a href=&quot;
-          /img/2025/11/body/D-Fuse_P3_02.jpg
-        &quot; data-lightbox=&quot;_&quot; data-title=&quot;&quot;&gt;
-            &lt;img src=&quot;
-          /img/2025/11/body/D-Fuse_P3_02.jpg
-        &quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
-    &lt;div class=&quot;block-image&quot;&gt;
-      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
-      
-
-      
-        &lt;div class=&quot;image-area&quot;&gt;
-          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
-          &lt;a href=&quot;
-          /img/2025/11/body/D-Fuse_P3_03.jpg
-        &quot; data-lightbox=&quot;_&quot; data-title=&quot;&quot;&gt;
-            &lt;img src=&quot;
-          /img/2025/11/body/D-Fuse_P3_03.jpg
-        &quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-        &lt;/div&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2025/11/22/nine-earths/</link>
-        <guid isPermaLink="true">https://cassiel.com/2025/11/22/nine-earths/</guid>
-        
-        <category>live-coding</category>
-        
-        <category>gig</category>
-        
-        <category>algorave</category>
-        
-        <category>the-printer-jam</category>
-        
-        <category>d-fuse</category>
         
         
       </item>
