@@ -5,9 +5,28 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>https://cassiel.com/</link>
     <atom:link href="https://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Jul 2026 21:05:46 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2026 21:05:46 +0100</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 20:41:34 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:41:34 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Sound On Sound Podcast: Gérard Assayag</title>
+        <description>&lt;p&gt;Rather late getting this online (blame &lt;a href=&quot;/tag/field-zhen&quot;&gt;Taiwan!&lt;/a&gt;): podcast interview about Computer Science, AI and IRCAM with Research Director &lt;a href=&quot;https://www.soundonsound.com/people/gerard-assayag-computer-science-sos-podcast&quot;&gt;Gérard Assayag&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0100</pubDate>
+        <link>https://cassiel.com/2026/08/27/gerard-assayag/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/08/27/gerard-assayag/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>gerard-assayag</category>
+        
+        <category>ircam</category>
+        
+        <category>podcast</category>
+        
+        
+      </item>
     
       <item>
         <title>Dual Duet</title>
@@ -407,26 +426,7 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
         
         <category>dance</category>
         
-        <category>field-zehn</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Blue Ghost in Slovenia</title>
-        <description>&lt;p&gt;Very old news, but just for completeless: Blue Ghost was performed at Cankarjev dom, Ljubljana, Slovenia back in October.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2026/01/08/blue-ghost-slovenia/</link>
-        <guid isPermaLink="true">https://cassiel.com/2026/01/08/blue-ghost-slovenia/</guid>
-        
-        <category>blue-ghost</category>
-        
-        <category>dotdotdot</category>
-        
-        <category>dance</category>
-        
-        <category>luz-mannion</category>
+        <category>field-zhen</category>
         
         
       </item>
