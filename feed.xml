@@ -5,9 +5,55 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>https://cassiel.com/</link>
     <atom:link href="https://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 27 Aug 2026 20:41:34 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2026 20:41:34 +0100</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 18:37:30 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:37:30 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Ultra Process 3</title>
+        <description>&lt;p&gt;Another Ultra Process gig for &lt;a href=&quot;/project/the-printer-jam&quot;&gt;The Printer Jam&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Venue: &lt;a href=&quot;https://folklorehoxton.co.uk/&quot;&gt;Folklore&lt;/a&gt;, Hoxton.&lt;/p&gt;
+
+&lt;p&gt;Tickets &lt;a href=&quot;https://luma.com/6jcgr2oh&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&quot;&gt;
+    &lt;div class=&quot;block-image&quot;&gt;
+      &lt;!-- Retrofit: deal with project in-page images as well as posts: --&gt;
+      
+
+      
+        &lt;div class=&quot;image-area&quot;&gt;
+          &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+          &lt;a href=&quot;
+          /img/2026/09/body/ultra.png
+        &quot; data-lightbox=&quot;_&quot; data-title=&quot;&quot;&gt;
+            &lt;img src=&quot;
+          /img/2026/09/body/ultra.png
+        &quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Image credits: &lt;a href=&quot;https://www.youtube.com/@pixelpusher13&quot;&gt;Evan Raskob&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0100</pubDate>
+        <link>https://cassiel.com/2026/09/14/ultra-process/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/09/14/ultra-process/</guid>
+        
+        <category>maxmsp</category>
+        
+        <category>bitwig</category>
+        
+        <category>gig</category>
+        
+        <category>the-printer-jam</category>
+        
+        
+      </item>
     
       <item>
         <title>Sound On Sound Podcast: Gérard Assayag</title>
@@ -410,23 +456,6 @@ Multimedia University. 10 November – 28 November 2025.&lt;/p&gt;
         <guid isPermaLink="true">https://cassiel.com/2026/01/24/plenum-kuala-lumpur/</guid>
         
         <category>plenum</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Future Folk Symposium</title>
-        <description>&lt;p&gt;Early days in this project, but the first R&amp;amp;D phase wraps up with a symposium in London on February 6th.&lt;/p&gt;
-
-&lt;p&gt;Tickets &lt;a href=&quot;https://www.eventbrite.co.uk/e/future-folk-tickets-1974936198333&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2026/01/09/future-folk/</link>
-        <guid isPermaLink="true">https://cassiel.com/2026/01/09/future-folk/</guid>
-        
-        <category>dance</category>
-        
-        <category>field-zhen</category>
         
         
       </item>
