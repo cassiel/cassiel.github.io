@@ -5,9 +5,26 @@
     <description>Cassiel: music, media, systems, performance, installation</description>
     <link>https://cassiel.com/</link>
     <atom:link href="https://cassiel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 18 Sep 2026 21:07:08 +0100</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 21:07:08 +0100</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 21:20:26 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:20:26 +0000</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Bitwig Studio: Sample Slicing</title>
+        <description>&lt;p&gt;After something like 60 product reviews for the magazine, I get to do my first techniques column: &lt;a href=&quot;https://www.soundonsound.com/techniques/bitwig-studio-sample-slicing&quot;&gt;Bitwig Studio: Sample Slicing&lt;/a&gt;, November 2026.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+        <link>https://cassiel.com/2026/11/11/bitwig-techniques/</link>
+        <guid isPermaLink="true">https://cassiel.com/2026/11/11/bitwig-techniques/</guid>
+        
+        <category>sound-on-sound</category>
+        
+        <category>bitwig</category>
+        
+        <category>article</category>
+        
+        
+      </item>
     
       <item>
         <title>CAIDS 2026</title>
@@ -213,23 +230,6 @@ this time in &lt;a href=&quot;https://teatrocinegouveia.pt/evento/quarto-escuro-
         <category>gig</category>
         
         <category>the-printer-jam</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Quarto Escuro de Goethe in Lisbon</title>
-        <description>&lt;p&gt;Two days of performance for the premiere of &lt;a href=&quot;https://semaforo.cc/quarto-escuro-de-goethe/&quot;&gt;Quarto Escuro de Goethe&lt;/a&gt; in Lisbon.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-        <link>https://cassiel.com/2026/03/07/quarto-escuro-lisbon/</link>
-        <guid isPermaLink="true">https://cassiel.com/2026/03/07/quarto-escuro-lisbon/</guid>
-        
-        <category>lisbon</category>
-        
-        <category>quarto-escuro-de-goethe</category>
-        
-        <category>semaforo</category>
         
         
       </item>
